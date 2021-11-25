@@ -1,0 +1,485 @@
+,carmodel,car_model
+0,179.0,Spark
+1,71.0,Innova
+2,101.0,Vios
+3,268.0,3
+4,1079.0,Kona
+5,210.0,Grand i10
+6,361.0,Matiz
+7,54.0,Camry
+8,145.0,Ranger
+9,278.0,BT 50
+10,487.0,Jolie
+11,1095.0,Corolla Cross
+12,448.0,GLC
+13,175.0,Orlando
+14,60.0,Corolla Altis
+15,187.0,Accent
+16,229.0,Tucson
+17,610.0,XL 7
+18,323.0,7 Series
+19,992.0,3
+20,67.0,Fortuner
+21,649.0,Range Rover
+22,1098.0,Seltos
+23,15.0,K3
+24,1083.0,Lux
+25,280.0,CX 5
+26,1097.0,Xpander
+27,439.0,C Class
+28,125.0,Everest
+29,32.0,Rondo
+30,570.0,3008
+31,105.0,Yaris
+32,1082.0,Fadil
+33,6.0,Cerato
+34,223.0,Santa Fe
+35,471.0,Attrage
+36,120.0,EcoSport
+37,59.0,Corolla
+38,243.0,CR V
+39,5.0,Carnival
+40,149.0,Transit
+41,131.0,Fiesta
+42,133.0,Focus
+43,33.0,Sedona
+44,994.0,4 Series
+45,1088.0,CX 8
+46,269.0,323
+47,1067.0,Land Cruiser Prado
+48,21.0,Morning
+49,164.0,Cruze
+50,74.0,Land Cruiser
+51,529.0,Maxima
+52,557.0,Terrano
+53,211.0,i20
+54,321.0,5 Series
+55,530.0,Micra
+56,68.0,Hiace
+57,444.0,E Class
+58,239.0,Accord
+59,241.0,Civic
+60,282.0,CX 9
+61,1023.0,5008
+62,606.0,Swift
+63,337.0,X6
+64,987.0,Wigo
+65,1078.0,Rush
+66,838.0,2107
+67,445.0,G Class
+68,533.0,Navara
+69,461.0,V Class
+70,30.0,Rio
+71,495.0,Outlander
+72,161.0,Colorado
+73,203.0,Getz
+74,35.0,Sorento
+75,424.0,GS
+76,784.0,Dòng khác
+77,726.0,Escalade
+78,231.0,Universe
+79,158.0,Captiva
+80,356.0,Lacetti
+81,990.0,CD5
+82,122.0,Escape
+83,240.0,City
+84,196.0,Elantra
+85,267.0,2
+86,502.0,Triton
+87,455.0,S Class
+88,311.0,Q5
+89,650.0,Range Rover Evoque
+90,1034.0,S90
+91,660.0,Panamera
+92,350.0,Gentra
+93,341.0,Dòng khác
+94,496.0,Pajero
+95,657.0,Cayenne
+96,504.0,Zinger
+97,599.0,Ertiga
+98,627.0,Tiguan
+99,305.0,A6
+100,4.0,Carens
+101,611.0,Dòng khác
+102,414.0,Dòng khác
+103,1055.0,Pickup
+104,226.0,Terracan
+105,140.0,Mondeo
+106,427.0,IS
+107,1012.0,F PACE
+108,271.0,5
+109,1070.0,Pajero Sport
+110,562.0,X Terra
+111,312.0,Q7
+112,555.0,Sunny
+113,740.0,200
+114,234.0,Veracruz
+115,446.0,GL Class
+116,1085.0,Brio
+117,310.0,Q3
+118,41.0,4 Runner
+119,225.0,Starex
+120,1094.0,Tourneo
+121,425.0,GX
+122,1041.0,Mu X
+123,465.0,Dòng khác
+124,1060.0,GLC Class
+125,1103.0,ZS
+126,428.0,LS
+127,319.0,3 Series
+128,99.0,Venza
+129,449.0,GLE Class
+130,646.0,Discovery
+131,346.0,Cielo
+132,70.0,Hilux
+133,272.0,6
+134,917.0,SM7
+135,189.0,Avante
+136,659.0,Macan
+137,357.0,Lanos
+138,532.0,Murano
+139,1081.0,Solati
+140,429.0,LX
+141,76.0,Mark II
+142,989.0,Avanza
+143,110.0,Aerostar
+144,336.0,X5
+145,883.0,ZS
+146,154.0,Aveo
+147,730.0,STS
+148,224.0,Sonata
+149,459.0,Sprinter
+150,184.0,Vivant
+151,979.0,Dòng khác
+152,922.0,Forester
+153,192.0,County
+154,558.0,Tiida
+155,360.0,Magnus
+156,431.0,RX
+157,197.0,eMighty
+158,435.0,190
+159,423.0,ES
+160,481.0,Grandis
+161,364.0,Nubira
+162,107.0,Zace
+163,251.0,Jazz
+164,400.0,Dmax
+165,62.0,Aveo
+166,686.0,Musso
+167,82.0,Prado
+168,1030.0,Celerio
+169,128.0,F 150
+170,10.0,Forte
+171,403.0,Hi lander
+172,1107.0,Almera
+173,1102.0,HS
+174,693.0,Dòng khác
+175,40.0,Dòng khác
+176,389.0,Siena
+177,274.0,929
+178,1072.0,Maybach
+179,1091.0,Soluto
+180,23.0,Optima
+181,1080.0,HR-V
+182,851.0,520
+183,126.0,Explorer
+184,374.0,Citivan
+185,1031.0,Ciaz
+186,37.0,Spectra
+187,452.0,MB
+188,138.0,Laser
+189,608.0,Vitara
+190,205.0,Grand Starex
+191,622.0,Polo
+192,83.0,Previa
+193,796.0,Englon
+194,1093.0,GLB
+195,612.0,Beetle
+196,64.0,Crown
+197,151.0,Dòng khác
+198,550.0,Sentra
+199,860.0,7 MPV
+200,44.0,Alphard
+201,108.0,Dòng khác
+202,966.0,850
+203,516.0,Cefiro
+204,8.0,Concord
+205,1025.0,Stavic
+206,651.0,Range Rover Sport
+207,238.0,Dòng khác
+208,631.0,Dòng khác
+209,300.0,A1
+210,235.0,Verna
+211,579.0,408
+212,24.0,Picanto
+213,521.0,Grand livina
+214,887.0,Dòng khác
+215,447.0,GLA Class
+216,202.0,Genesis
+217,970.0,S60
+218,988.0,CX 3
+219,888.0,Antara
+220,711.0,Continental
+221,978.0,CR V
+222,303.0,A4
+223,1057.0,Trailblazer
+224,1106.0,CX-30
+225,581.0,508
+226,392.0,Tempra
+227,170.0,Lacetti
+228,61.0,Corona
+229,829.0,XE
+230,491.0,Lancer
+231,27.0,Pride
+232,376.0,Terios
+233,769.0,Neon
+234,489.0,L300
+235,1086.0,BR-V
+236,420.0,Wrangler
+237,441.0,CLA Class
+238,1.0,Avella
+239,150.0,Wind star
+240,830.0,XF
+241,399.0,D Cargo
+242,1101.0,Beijing X7
+243,687.0,Rexton
+244,685.0,Kyron
+245,306.0,A7
+246,595.0,APV
+247,22.0,Opirus
+248,719.0,F0
+249,410.0,Dmax
+250,906.0,Tiara
+251,644.0,Dòng khác
+252,322.0,6 Series
+253,763.0,Dòng khác
+254,930.0,T880
+255,1084.0,Dòng khác
+256,48.0,Avalon
+257,442.0,CLK Class
+258,564.0,Dòng khác
+259,204.0,Accent
+260,637.0,MDX
+261,270.0,323F
+262,38.0,Sportage
+263,768.0,Journey
+264,69.0,Highlander
+265,409.0,Pick up
+266,546.0,Quest
+267,90.0,Sienna
+268,798.0,Hummer
+269,380.0,Albea
+270,483.0,GTO
+271,972.0,XC90
+272,867.0,Dòng khác
+273,17.0,K5
+274,237.0,XG
+275,87.0,RAV4
+276,212.0,i30
+277,1077.0,GLS Class
+278,318.0,2 Series
+279,317.0,1 Series
+280,609.0,Wagon R+
+281,217.0,Libero
+282,49.0,Avensis
+283,617.0,Jetta
+284,407.0,NPR
+285,443.0,CLS Class
+286,565.0,107
+287,1071.0,Outlander Sport
+288,81.0,Platz
+289,273.0,626
+290,290.0,Premacy
+291,201.0,Galloper
+292,514.0,Bluebird
+293,66.0,Fj cruiser
+294,116.0,Club wagon
+295,417.0,CJ
+296,377.0,Dòng khác
+297,505.0,Dòng khác
+298,667.0,Duster
+299,314.0,TT
+300,191.0,Click
+301,395.0,Dòng khác
+302,877.0,Dòng khác
+303,1104.0,VFe34
+304,563.0,X trail
+305,974.0,T600
+306,645.0,Defender
+307,628.0,Dòng khác
+308,295.0,Dòng khác
+309,173.0,Matiz
+310,430.0,NX
+311,96.0,Tercel
+312,792.0,Gazele
+313,339.0,Z4
+314,92.0,Solara
+315,372.0,Dòng khác
+316,335.0,X4
+317,575.0,309
+318,654.0,911
+319,194.0,Creta
+320,493.0,Mirage
+321,421.0,Dòng khác
+322,712.0,Flying Spur
+323,266.0,Dòng khác
+324,199.0,Equus
+325,79.0,MR 2
+326,347.0,Damas
+327,577.0,405
+328,1105.0,2008
+329,215.0,Lantra
+330,859.0,5
+331,333.0,X1
+332,1092.0,X7
+333,185.0,Dòng khác
+334,528.0,Livina
+335,193.0,Coupe
+336,1063.0,QX60
+337,298.0,80
+338,708.0,Dòng khác
+339,545.0,Qashqai
+340,1032.0,3
+341,348.0,Espero
+342,986.0,Trax
+343,84.0,Prius
+344,535.0,Pathfinder
+345,123.0,Escort
+346,746.0,Jeep cherokee
+347,42.0,86
+348,456.0,SL Class
+349,653.0,Dòng khác
+350,156.0,Camaro
+351,408.0,NQR
+352,556.0,Teana
+353,288.0,MX 6
+354,450.0,GLK Class
+355,1054.0,Hunter
+356,475.0,Colt
+357,1021.0,Levante
+358,334.0,X3
+359,351.0,GentraX
+360,833.0,Dòng khác
+361,18.0,K7
+362,304.0,A5
+363,914.0,QM5
+364,106.0,Yaris Verso
+365,620.0,Passat
+366,222.0,S coupe
+367,12.0,Jeep
+368,652.0,Range Rover Vogue
+369,236.0,Xcent
+370,466.0,Cooper
+371,670.0,Koleos
+372,436.0,A Class
+373,46.0,Aristo
+374,905.0,Perdana
+375,248.0,FIT
+376,632.0,CL
+377,633.0,EL
+378,809.0,S7
+379,738.0,QQ3
+380,714.0,Dòng khác
+381,920.0,Xd
+382,976.0,Z300
+383,636.0,Legend
+384,198.0,Eon
+385,367.0,Racer
+386,596.0,Balenno
+387,1061.0,Cerato Koup
+388,1008.0,Bentayga
+389,166.0,Express
+390,731.0,Dòng khác
+391,1005.0,Q2
+392,658.0,Cayman
+393,807.0,M8
+394,75.0,Liteace
+395,328.0,M couper
+396,757.0,C2
+397,438.0,B Class
+398,856.0,Navigator
+399,862.0,M7
+400,928.0,Dòng khác
+401,933.0,Dòng khác
+402,1089.0,XC40
+403,473.0,Challenger
+404,494.0,Montero
+405,537.0,Pick up
+406,117.0,Escape
+407,379.0,500
+408,440.0,CL Class
+409,985.0,Dòng khác
+410,228.0,Trajet
+411,232.0,Universe Xpress Luxury
+412,141.0,Mustang
+413,480.0,Galant
+414,109.0,Acononline
+415,453.0,ML Class
+416,330.0,M4
+417,1075.0,Quoris
+418,506.0,100NX
+419,326.0,i3
+420,233.0,Veloster
+421,384.0,Doblo
+422,36.0,Soul
+423,302.0,A3
+424,600.0,Grand vitara
+425,691.0,Spider
+426,127.0,Express
+427,810.0,Dòng khác
+428,594.0,Alto
+429,147.0,Taurus
+430,853.0,Dòng khác
+431,3.0,Cadenza
+432,415.0,A2
+433,865.0,Dòng khác
+434,587.0,Dòng khác
+435,412.0,Trooper
+436,153.0,Avanlanche
+437,152.0,Astro
+438,454.0,R Class
+439,619.0,New Beetle
+440,700.0,Zagato
+441,509.0,300ZX
+442,647.0,Freelander
+443,688.0,Tivoli
+444,1013.0,Pickup
+445,864.0,U7
+446,93.0,Starlet
+447,1020.0,Range Rover Velar
+448,1051.0,S5
+449,701.0,Dòng khác
+450,774.0,Dòng khác
+451,207.0,H 1
+452,999.0,159
+453,512.0,Altima
+454,373.0,Charade
+455,655.0,Boxster
+456,720.0,Dòng khác
+457,874.0,Paso
+458,716.0,Lasabre
+459,1035.0,XC60
+460,593.0,Aerio
+461,578.0,406
+462,964.0,740
+463,624.0,Scirocco
+464,370.0,Tico
+465,434.0,Dòng khác
+466,692.0,Dòng khác
+467,1065.0,QX80
+468,918.0,Dòng khác
+469,567.0,206
+470,924.0,Legacy
+471,72.0,Ipsum
+472,186.0,Azera
+473,819.0,FX
+474,854.0,Aviator
+475,741.0,300C
+476,800.0,Dòng khác
+477,285.0,MPV
+478,256.0,Odyssey
+479,515.0,Cedric
+480,574.0,308
+481,488.0,L200
+482,34.0,Sephia
+483,476.0,Diamante
