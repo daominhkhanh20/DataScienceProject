@@ -31,6 +31,7 @@ class Chotot(Spider):
         if seller is None:
             seller = response.xpath('//div[@class="contact-txt"]/span/text()').get()
         item['seller'] = seller
+        item['date'] = response.xpath('//*[@id="car_detail"]/div[3]/div/text()').get()
         item['seller_address'] = response.xpath('//*[@id="car_detail"]/div[7]/div[2]/div/text()').getall()[2]
         
         item['origin'] = response.xpath('//div[@class="col"][1]/div[@id="mail_parent"][1]/div[2]/span/text()').get()
