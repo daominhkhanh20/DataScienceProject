@@ -1,0 +1,12 @@
+1 - Đen
+2 - Trắng
+3 - Bạc
+8 - Cam
+5 - Đỏ
+6 - Xanh dương
+7 - Vàng
+10 - Xanh lá
+11 - Hồng
+4 - Xám
+9 - Nâu
+12 - Màu khác
