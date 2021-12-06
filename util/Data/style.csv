@@ -1,10 +1,10 @@
 ,cartype,style
-0,4.0,Hatchback
+0,3.0,SUV / Cross over
 1,8.0,Minivan (MPV)
 2,1.0,Sedan
-3,3.0,SUV / Cross over
+3,4.0,Hatchback
 4,6.0,Pick-up (bán tải)
 5,9.0,Van
-6,5.0,Kiểu dáng khác
-7,2.0,Coupe (2 cửa)
+6,2.0,Coupe (2 cửa)
+7,5.0,Kiểu dáng khác
 8,7.0,Mui trần
