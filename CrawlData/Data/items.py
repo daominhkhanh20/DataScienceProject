@@ -7,6 +7,7 @@ class Car(scrapy.Item):
     price = Field(default=None)
     description = Field(default=None)
     seller = Field(default=None)
+    url_image = Field(default=None)
     # chat_response_ratio = Field = Field(default=None)
 
     brand_name = Field(default=None)
@@ -27,6 +28,7 @@ class BonBanh(scrapy.Item):
     description = Field(default=None)
     seller = Field(default=None)
     seller_address = Field(default=None)
+    url_image = Field(default=None)
     date = Field(default=None)
     origin = Field(default=None)
     status = Field(default=None)

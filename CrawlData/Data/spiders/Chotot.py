@@ -17,7 +17,7 @@ class Chotot(Spider):
             for url in list_urls:
                 url_page=response.urljoin(url)
                 yield Request(url=url_page, callback=self.parse_content)
-            if self.page_index < 1500:
+            if self.page_index < 1820:
                 self.page_index += 1
                 yield Request(url=self.start_url.format(self.page_index), callback=self.parse)
     
@@ -28,6 +28,8 @@ class Chotot(Spider):
         item['price'] = response.xpath('//*[@itemprop="price"]/text()').get()
         item['description'] = response.xpath('//*[@itemprop="description"]/text()').get()
         item['seller'] = re.findall('(?<=account_name)[:"]+[\w\s]+["]', response.text)[0][2:]
+        item['url_image'] = re.findall('(?<=<meta property="og:image" content=")[\S]+["]',response.text)[0][:-1]
+
 
         item['brand_name'] = response.xpath('//*[@itemprop="carbrand"]/text()').get()
         item['car_model'] = response.xpath('//*[@itemprop="carmodel"]/text()').get()

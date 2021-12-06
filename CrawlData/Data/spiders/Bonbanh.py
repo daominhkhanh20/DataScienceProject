@@ -17,7 +17,7 @@ class Chotot(Spider):
             url_page=response.urljoin(url)
             yield Request(url=url_page, callback=self.parse_content)
 
-        if self.page_index <= 1972:
+        if self.page_index <= 2031:
             self.page_index += 1
             yield Request(url=self.start_url.format(self.page_index), callback=self.parse)
     
@@ -33,6 +33,7 @@ class Chotot(Spider):
         item['seller'] = seller
         item['date'] = response.xpath('//*[@id="car_detail"]/div[3]/div/text()').get()
         item['seller_address'] = response.xpath('//*[@id="car_detail"]/div[7]/div[2]/div/text()').getall()[2]
+        item['url_image'] = response.xpath('//*[@id="lnk1"]/@href').get()
         
         item['origin'] = response.xpath('//div[@class="col"][1]/div[@id="mail_parent"][1]/div[2]/span/text()').get()
         item['status'] = response.xpath('//div[@class="col"][1]/div[@id="mail_parent"][2]/div[2]/span/text()').get()
