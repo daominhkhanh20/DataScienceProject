@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "Kona",
+        "generation": "I (2017-)",
+        "years": "2017-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9729
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8706,
+        "br_y": 0.911,
+        "tl_x": 0.1077,
+        "tl_y": 0.2782
+    }
+}

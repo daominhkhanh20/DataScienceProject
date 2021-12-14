@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Suzuki",
+        "model": "Jimny",
+        "generation": "III (JB43) (1998-2005)",
+        "years": "1998-2005",
+        "prob": "97.73"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8662
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.985
+    },
+    "bbox": {
+        "br_x": 0.8858,
+        "br_y": 0.7043,
+        "tl_x": 0.1057,
+        "tl_y": 0.2191
+    }
+}

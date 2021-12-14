@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Audi",
+        "model": "S4",
+        "generation": "V (B9) (2016-2019)",
+        "years": "2016-2019",
+        "prob": "62.21"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9172
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9987
+    },
+    "bbox": {
+        "br_x": 0.8632,
+        "br_y": 0.8447,
+        "tl_x": 0.1979,
+        "tl_y": 0.2435
+    }
+}

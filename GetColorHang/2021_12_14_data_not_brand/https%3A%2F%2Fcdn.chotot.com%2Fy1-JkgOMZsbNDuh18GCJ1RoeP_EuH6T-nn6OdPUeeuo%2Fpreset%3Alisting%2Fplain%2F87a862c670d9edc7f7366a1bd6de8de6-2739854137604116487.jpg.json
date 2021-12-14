@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "Sonata",
+        "generation": "VII (LF) facelift (2017-2019)",
+        "years": "2017-2019",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.9681
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9705,
+        "br_y": 0.9104,
+        "tl_x": 0.0671,
+        "tl_y": 0.2757
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Honda",
+        "model": "CR-V",
+        "generation": "I (1995-1999)",
+        "years": "1995-1999",
+        "prob": "83.77"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.7335
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.7922,
+        "br_y": 0.7856,
+        "tl_x": 0.0552,
+        "tl_y": 0.01
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Honda",
+        "model": "Vezel",
+        "generation": "2013 - Now",
+        "years": "2013-",
+        "prob": "89.53"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.7962
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9992
+    },
+    "bbox": {
+        "br_x": 0.9573,
+        "br_y": 0.8533,
+        "tl_x": 0.0108,
+        "tl_y": 0.4488
+    }
+}

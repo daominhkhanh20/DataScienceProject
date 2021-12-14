@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Fiesta",
+        "generation": "III (1989-1996)",
+        "years": "1989-1996",
+        "prob": "30.90"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9192
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9108
+    },
+    "bbox": {
+        "br_x": 0.9337,
+        "br_y": 0.8199,
+        "tl_x": 0.0037,
+        "tl_y": 0.143
+    }
+}

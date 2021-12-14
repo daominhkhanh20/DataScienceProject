@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Elgrand",
+        "generation": "II (E51) (2002-2010)",
+        "years": "2002-2010",
+        "prob": "49.46"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.762
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9958
+    },
+    "bbox": {
+        "br_x": 0.4817,
+        "br_y": 0.4705,
+        "tl_x": 0.0052,
+        "tl_y": 0.1992
+    }
+}

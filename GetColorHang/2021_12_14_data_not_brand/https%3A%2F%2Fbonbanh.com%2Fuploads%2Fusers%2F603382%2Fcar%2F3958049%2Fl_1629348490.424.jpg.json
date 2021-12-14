@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Suzuki",
+        "model": "Every",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "90.49"
+    },
+    "color": {
+        "name": "Blue/Light Blue",
+        "probability": 0.7824
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9263,
+        "br_y": 0.8579,
+        "tl_x": 0.2419,
+        "tl_y": 0.1355
+    }
+}

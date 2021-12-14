@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Terrano",
+        "generation": "I (WD21) (1985-1995)",
+        "years": "1985-1995",
+        "prob": "88.37"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9841
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9725,
+        "br_y": 0.7991,
+        "tl_x": 0.0095,
+        "tl_y": 0.0866
+    }
+}

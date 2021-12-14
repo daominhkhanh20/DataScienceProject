@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "SsangYong",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "99.38"
+    },
+    "color": {
+        "name": "Blue/Green",
+        "probability": 0.9533
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9858
+    },
+    "bbox": {
+        "br_x": 0.8801,
+        "br_y": 0.8827,
+        "tl_x": 0.1973,
+        "tl_y": 0.4048
+    }
+}

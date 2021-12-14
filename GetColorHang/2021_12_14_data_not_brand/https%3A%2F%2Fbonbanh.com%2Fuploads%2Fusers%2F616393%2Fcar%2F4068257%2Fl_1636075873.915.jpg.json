@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Chrysler",
+        "model": "Voyager",
+        "generation": "IV facelift (2004-2008)",
+        "years": "2004-2008",
+        "prob": "46.04"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6714
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.6831
+    },
+    "bbox": {
+        "br_x": 0.9005,
+        "br_y": 0.7606,
+        "tl_x": 0.0028,
+        "tl_y": 0.1139
+    }
+}

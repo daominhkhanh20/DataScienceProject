@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Chevrolet",
+        "model": "Colorado",
+        "generation": "I (2004-2012)",
+        "years": "2004-2012",
+        "prob": "67.87"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.8262
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9016,
+        "br_y": 0.861,
+        "tl_x": 0.054,
+        "tl_y": 0.2698
+    }
+}

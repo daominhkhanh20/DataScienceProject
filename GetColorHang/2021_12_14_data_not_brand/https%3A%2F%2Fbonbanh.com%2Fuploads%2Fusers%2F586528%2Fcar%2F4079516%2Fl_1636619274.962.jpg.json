@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Audi",
+        "model": "A4 allroad",
+        "generation": "IV (B8) facelift (2011-2016)",
+        "years": "2011-2016",
+        "prob": "83.76"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.711
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9177
+    },
+    "bbox": {
+        "br_x": 0.8215,
+        "br_y": 0.958,
+        "tl_x": 0.1955,
+        "tl_y": 0.1517
+    }
+}

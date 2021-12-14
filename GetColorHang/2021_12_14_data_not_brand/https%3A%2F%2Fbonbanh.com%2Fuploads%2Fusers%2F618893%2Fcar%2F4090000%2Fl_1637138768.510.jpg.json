@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Other",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "32.28"
+    },
+    "color": {
+        "name": "Silver/Gray",
+        "probability": 0.8433999999999999
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.9864
+    },
+    "bbox": {
+        "br_x": 0.9992,
+        "br_y": 0.99,
+        "tl_x": 0.0018,
+        "tl_y": 0.0301
+    }
+}

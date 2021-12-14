@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Renault",
+        "model": "CAPTUR",
+        "generation": "I (2012-2017)",
+        "years": "2012-2017",
+        "prob": "97.73"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8006
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.8305
+    },
+    "bbox": {
+        "br_x": 0.9154,
+        "br_y": 0.9342,
+        "tl_x": 0.0069,
+        "tl_y": 0.0661
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mercedes-Benz",
+        "model": "Vito",
+        "generation": "I (W638) (1996-2003)",
+        "years": "1996-2003",
+        "prob": "49.41"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.947
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.999
+    },
+    "bbox": {
+        "br_x": 0.9737,
+        "br_y": 0.9043,
+        "tl_x": 0.0522,
+        "tl_y": 0.2254
+    }
+}

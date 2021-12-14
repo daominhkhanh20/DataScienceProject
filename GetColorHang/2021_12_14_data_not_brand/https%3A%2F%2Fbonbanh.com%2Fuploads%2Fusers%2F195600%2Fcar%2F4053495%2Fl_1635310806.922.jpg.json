@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Jeep",
+        "model": "Cherokee",
+        "generation": "V (KL) (2013-2018)",
+        "years": "2013-2018",
+        "prob": "99.89"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9559,
+        "br_y": 0.9379,
+        "tl_x": 0.0309,
+        "tl_y": 0.0536
+    }
+}

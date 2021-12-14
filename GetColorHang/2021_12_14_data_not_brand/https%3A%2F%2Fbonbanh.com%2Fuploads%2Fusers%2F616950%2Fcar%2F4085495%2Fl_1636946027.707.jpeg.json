@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Dacia",
+        "model": "Logan",
+        "generation": "I (2004-2012)",
+        "years": "2004-2012",
+        "prob": "98.99"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.452
+    },
+    "angle": {
+        "name": "Right",
+        "probability": 0.7264
+    },
+    "bbox": {
+        "br_x": 0.9966,
+        "br_y": 0.9908,
+        "tl_x": 0,
+        "tl_y": 0.1118
+    }
+}

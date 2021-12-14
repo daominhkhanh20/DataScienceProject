@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Previa",
+        "generation": "I (XR10, XR20) (1990-2000)",
+        "years": "1990-2000",
+        "prob": "80.39"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.4531
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.7389,
+        "br_y": 0.9881,
+        "tl_x": 0.2216,
+        "tl_y": 0.3611
+    }
+}

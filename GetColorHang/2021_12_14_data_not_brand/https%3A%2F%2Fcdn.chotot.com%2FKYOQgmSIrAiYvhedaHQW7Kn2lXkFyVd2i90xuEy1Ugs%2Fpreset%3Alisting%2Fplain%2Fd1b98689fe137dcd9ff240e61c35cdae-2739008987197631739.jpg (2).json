@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Corolla",
+        "generation": "XI (E160, E170) facelift (2015-)",
+        "years": "2015-",
+        "prob": "98.77"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.7413
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8586,
+        "br_y": 0.774,
+        "tl_x": 0.1381,
+        "tl_y": 0.2578
+    }
+}

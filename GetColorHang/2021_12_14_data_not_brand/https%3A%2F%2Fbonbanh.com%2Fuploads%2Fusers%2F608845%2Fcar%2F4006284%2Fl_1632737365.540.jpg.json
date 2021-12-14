@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "IZ",
+        "model": "Москвич-412",
+        "generation": "1967 - 1998",
+        "years": "1967-1998",
+        "prob": "54.04"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.4444
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.7834
+    },
+    "bbox": {
+        "br_x": 0.9988,
+        "br_y": 0.9953,
+        "tl_x": 0.0302,
+        "tl_y": 0.0026
+    }
+}

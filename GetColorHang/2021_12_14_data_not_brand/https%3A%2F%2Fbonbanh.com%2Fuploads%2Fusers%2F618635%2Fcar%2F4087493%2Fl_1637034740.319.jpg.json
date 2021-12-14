@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Raum",
+        "generation": "II (2003-2011)",
+        "years": "2003-2011",
+        "prob": "56.22"
+    },
+    "color": {
+        "name": "Red",
+        "probability": 0.91
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.9427
+    },
+    "bbox": {
+        "br_x": 0.8841,
+        "br_y": 0.9445,
+        "tl_x": 0.1773,
+        "tl_y": 0.1093
+    }
+}

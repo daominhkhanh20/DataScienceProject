@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "TownAce",
+        "generation": "II (1988-1993)",
+        "years": "1988-1993",
+        "prob": "69.46"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.8137
+    },
+    "bbox": {
+        "br_x": 0.8806,
+        "br_y": 0.994,
+        "tl_x": 0.0046,
+        "tl_y": 0.005
+    }
+}

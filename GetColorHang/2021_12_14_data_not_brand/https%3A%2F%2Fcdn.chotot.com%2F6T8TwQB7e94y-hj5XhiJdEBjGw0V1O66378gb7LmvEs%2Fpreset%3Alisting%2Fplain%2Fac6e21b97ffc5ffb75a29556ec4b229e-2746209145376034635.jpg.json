@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "i10",
+        "generation": "II facelift (2016-)",
+        "years": "2016-",
+        "prob": "98.92"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9851
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.891,
+        "br_y": 0.9567,
+        "tl_x": 0.0042,
+        "tl_y": 0.1517
+    }
+}

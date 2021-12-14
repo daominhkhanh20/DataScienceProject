@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Other",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.3912
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9551
+    },
+    "bbox": {
+        "br_x": 0.7469,
+        "br_y": 0.8306,
+        "tl_x": 0,
+        "tl_y": 0.0264
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Camry",
+        "generation": "VII (XV50) facelift 2 (2017-2018)",
+        "years": "2017-2018",
+        "prob": "99.14"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.9571
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9639,
+        "br_y": 0.8975,
+        "tl_x": 0.0594,
+        "tl_y": 0.1773
+    }
+}

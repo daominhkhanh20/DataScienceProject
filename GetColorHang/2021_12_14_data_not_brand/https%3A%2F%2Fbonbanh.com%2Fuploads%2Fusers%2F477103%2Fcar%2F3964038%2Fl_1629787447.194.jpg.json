@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "F-150",
+        "generation": "XIII facelift (2017-)",
+        "years": "2017-",
+        "prob": "99.23"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.5884
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8779,
+        "br_y": 0.9911,
+        "tl_x": 0.1401,
+        "tl_y": 0.0133
+    }
+}

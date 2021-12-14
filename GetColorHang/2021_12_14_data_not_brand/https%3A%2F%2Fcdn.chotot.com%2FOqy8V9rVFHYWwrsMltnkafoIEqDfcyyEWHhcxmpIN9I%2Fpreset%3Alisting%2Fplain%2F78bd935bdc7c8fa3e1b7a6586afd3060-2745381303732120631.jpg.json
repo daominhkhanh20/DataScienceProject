@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Picanto",
+        "generation": "III (2017-)",
+        "years": "2017-",
+        "prob": "47.43"
+    },
+    "color": {
+        "name": "Brown",
+        "probability": 0.856
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.934,
+        "br_y": 0.9524,
+        "tl_x": 0.1043,
+        "tl_y": 0.1364
+    }
+}

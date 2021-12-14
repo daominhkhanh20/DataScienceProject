@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hummer",
+        "model": "H3",
+        "generation": "2005 - 2010",
+        "years": "2005-2010",
+        "prob": "99.98"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.4253
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9946,
+        "br_y": 0.9158,
+        "tl_x": 0.0434,
+        "tl_y": 0.0279
+    }
+}

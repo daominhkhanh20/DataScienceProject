@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "MAZDA",
+        "model": "Bongo",
+        "generation": "IV (1999-2018)",
+        "years": "1999-2018",
+        "prob": "92.42"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6559
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9948
+    },
+    "bbox": {
+        "br_x": 0.8775,
+        "br_y": 0.9817,
+        "tl_x": 0.2907,
+        "tl_y": 0.1689
+    }
+}

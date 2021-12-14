@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Daihatsu",
+        "model": "Charade",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "72.74"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.6326
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.9913,
+        "br_y": 0.7897,
+        "tl_x": 0.0028,
+        "tl_y": 0.2426
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Vauxhall",
+        "model": "VXR8",
+        "generation": "2007 - 2009",
+        "years": "2007-2009",
+        "prob": "28.92"
+    },
+    "color": {
+        "name": "Silver/White",
+        "probability": 0.855
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.8139,
+        "br_y": 0.7009,
+        "tl_x": 0.237,
+        "tl_y": 0.2046
+    }
+}

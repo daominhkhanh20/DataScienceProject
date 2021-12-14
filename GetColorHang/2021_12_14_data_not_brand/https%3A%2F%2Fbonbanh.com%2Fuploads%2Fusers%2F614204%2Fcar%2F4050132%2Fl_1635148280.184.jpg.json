@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "FIAT",
+        "model": "Doblo",
+        "generation": "I (2000-2005)",
+        "years": "2000-2005",
+        "prob": "99.96"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.5916
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.5061
+    },
+    "bbox": {
+        "br_x": 0.927,
+        "br_y": 0.7831,
+        "tl_x": 0.056,
+        "tl_y": 0.1084
+    }
+}

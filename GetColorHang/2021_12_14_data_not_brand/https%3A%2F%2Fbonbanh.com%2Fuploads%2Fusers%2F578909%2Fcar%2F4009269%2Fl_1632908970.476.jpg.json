@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Serena",
+        "generation": "IV (C26) (2010-2016)",
+        "years": "2010-2016",
+        "prob": "58.83"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.7527
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.9388,
+        "br_y": 0.9928,
+        "tl_x": 0,
+        "tl_y": 0.0293
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "MAZDA",
+        "model": "BT-50",
+        "generation": "II (2011-2015)",
+        "years": "2011-2015",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9946
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8541,
+        "br_y": 0.9253,
+        "tl_x": 0,
+        "tl_y": 0.1696
+    }
+}

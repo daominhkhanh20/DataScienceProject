@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Honda",
+        "model": "CR-V",
+        "generation": "III (2006-2009)",
+        "years": "2006-2009",
+        "prob": "26.94"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9741
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.9869
+    },
+    "bbox": {
+        "br_x": 0.9756,
+        "br_y": 0.7814,
+        "tl_x": 0.1622,
+        "tl_y": 0.1884
+    }
+}

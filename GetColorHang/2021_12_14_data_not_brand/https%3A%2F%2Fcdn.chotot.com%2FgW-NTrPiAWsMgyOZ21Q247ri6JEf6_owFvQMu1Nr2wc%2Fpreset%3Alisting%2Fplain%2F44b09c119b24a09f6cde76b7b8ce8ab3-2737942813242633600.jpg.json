@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Succeed",
+        "generation": "I (2002-2014)",
+        "years": "2002-2014",
+        "prob": "97.97"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.7759
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9187,
+        "br_y": 0.9473,
+        "tl_x": 0.0996,
+        "tl_y": 0.0726
+    }
+}

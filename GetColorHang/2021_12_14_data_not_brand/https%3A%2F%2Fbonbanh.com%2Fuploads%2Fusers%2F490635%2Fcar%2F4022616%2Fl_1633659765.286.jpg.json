@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Suzuki",
+        "model": "Wagon R",
+        "generation": "II (1998-2003)",
+        "years": "1998-2003",
+        "prob": "76.86"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.583
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9894
+    },
+    "bbox": {
+        "br_x": 0.8813,
+        "br_y": 0.7853,
+        "tl_x": 0.1942,
+        "tl_y": 0.3122
+    }
+}

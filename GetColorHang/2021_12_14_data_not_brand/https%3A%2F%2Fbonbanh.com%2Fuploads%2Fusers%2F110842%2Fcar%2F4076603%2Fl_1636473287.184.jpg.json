@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "FIAT",
+        "model": "Fiorino",
+        "generation": "III (2008-)",
+        "years": "2008-",
+        "prob": "83.30"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.8915
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.6153
+    },
+    "bbox": {
+        "br_x": 0.8632,
+        "br_y": 0.9815,
+        "tl_x": 0.2312,
+        "tl_y": 0.0632
+    }
+}

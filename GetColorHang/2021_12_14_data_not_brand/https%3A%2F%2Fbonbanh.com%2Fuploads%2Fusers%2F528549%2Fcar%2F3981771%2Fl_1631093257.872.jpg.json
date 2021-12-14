@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Pregio",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "58.75"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.7005
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9405
+    },
+    "bbox": {
+        "br_x": 0.8511,
+        "br_y": 0.999,
+        "tl_x": 0.1376,
+        "tl_y": 0.105
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Forte",
+        "generation": "III (2019-)",
+        "years": "2019-",
+        "prob": "96.23"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.8783
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8379,
+        "br_y": 0.8761,
+        "tl_x": 0.1752,
+        "tl_y": 0.2012
+    }
+}

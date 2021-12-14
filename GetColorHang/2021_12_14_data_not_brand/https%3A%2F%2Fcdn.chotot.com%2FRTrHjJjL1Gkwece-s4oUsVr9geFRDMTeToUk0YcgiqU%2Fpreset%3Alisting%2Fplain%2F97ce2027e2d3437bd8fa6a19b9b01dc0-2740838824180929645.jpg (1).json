@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "MAZDA",
+        "model": "3",
+        "generation": "IV (BP) (2019-)",
+        "years": "2019-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9893
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9152,
+        "br_y": 0.8971,
+        "tl_x": 0.196,
+        "tl_y": 0.2874
+    }
+}

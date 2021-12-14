@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Optima",
+        "generation": "III (2010-2013)",
+        "years": "2010-2013",
+        "prob": "30.02"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.4962
+    },
+    "angle": {
+        "name": "Right",
+        "probability": 0.9736
+    },
+    "bbox": {
+        "br_x": 1,
+        "br_y": 0.6387,
+        "tl_x": 0.7816,
+        "tl_y": 0.4882
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Honda",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "90.76"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.4807
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9975
+    },
+    "bbox": {
+        "br_x": 0.8556,
+        "br_y": 0.9606,
+        "tl_x": 0.1805,
+        "tl_y": 0.11
+    }
+}

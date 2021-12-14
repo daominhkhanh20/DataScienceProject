@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Escape",
+        "generation": "III facelift (2015-)",
+        "years": "2015-",
+        "prob": "99.72"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.9882
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.7243,
+        "br_y": 0.8414,
+        "tl_x": 0.2325,
+        "tl_y": 0.1866
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Allion",
+        "generation": "I (T240) (2001-2004)",
+        "years": "2001-2004",
+        "prob": "99.90"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.6244
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9007,
+        "br_y": 0.7438,
+        "tl_x": 0.1099,
+        "tl_y": 0.2968
+    }
+}

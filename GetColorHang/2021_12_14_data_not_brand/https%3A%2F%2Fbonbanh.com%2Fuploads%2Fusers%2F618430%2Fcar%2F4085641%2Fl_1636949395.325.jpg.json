@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "TownAce",
+        "generation": "IV (1996-2007)",
+        "years": "1996-2007",
+        "prob": "68.34"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.851,
+        "br_y": 0.5505,
+        "tl_x": 0,
+        "tl_y": 0.1599
+    }
+}

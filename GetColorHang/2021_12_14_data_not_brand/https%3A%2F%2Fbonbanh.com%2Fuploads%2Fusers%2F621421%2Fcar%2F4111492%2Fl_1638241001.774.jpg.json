@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Ipsum",
+        "generation": "II (M20) (2001-2003)",
+        "years": "2001-2003",
+        "prob": "46.14"
+    },
+    "color": {
+        "name": "Beige",
+        "probability": 0.3458
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.9541,
+        "br_y": 0.8305,
+        "tl_x": 0.0336,
+        "tl_y": 0.1634
+    }
+}

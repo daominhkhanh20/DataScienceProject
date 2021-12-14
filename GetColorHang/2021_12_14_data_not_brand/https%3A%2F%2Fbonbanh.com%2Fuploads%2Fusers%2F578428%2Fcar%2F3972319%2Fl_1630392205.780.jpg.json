@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "SsangYong",
+        "model": "Tivoli",
+        "generation": "2015 - Now",
+        "years": "2015-",
+        "prob": "47.27"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.937
+    },
+    "angle": {
+        "name": "Left",
+        "probability": 0.9624
+    },
+    "bbox": {
+        "br_x": 0.2174,
+        "br_y": 0.5583,
+        "tl_x": 0,
+        "tl_y": 0.4379
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Opel",
+        "model": "Astra",
+        "generation": "H (2004-2007)",
+        "years": "2004-2007",
+        "prob": "24.46"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6443
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.994
+    },
+    "bbox": {
+        "br_x": 0.7962,
+        "br_y": 0.926,
+        "tl_x": 0.2082,
+        "tl_y": 0.2214
+    }
+}

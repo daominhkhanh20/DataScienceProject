@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mitsubishi",
+        "model": "Outlander",
+        "generation": "III facelift 3 (2018-)",
+        "years": "2018-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9963
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9702,
+        "br_y": 0.9623,
+        "tl_x": 0.0763,
+        "tl_y": 0.3078
+    }
+}

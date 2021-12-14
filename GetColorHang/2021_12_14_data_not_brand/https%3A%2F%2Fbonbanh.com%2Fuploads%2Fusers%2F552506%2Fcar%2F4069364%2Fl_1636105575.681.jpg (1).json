@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "BMW",
+        "model": "M5",
+        "generation": "III (E39) (1998-2003)",
+        "years": "1998-2003",
+        "prob": "73.30"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.7082
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.899
+    },
+    "bbox": {
+        "br_x": 0.7857,
+        "br_y": 0.9242,
+        "tl_x": 0.0789,
+        "tl_y": 0.0881
+    }
+}

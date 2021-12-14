@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Citroen",
+        "model": "Berlingo",
+        "generation": "I facelift (2002-2012)",
+        "years": "2002-2012",
+        "prob": "46.58"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.8031
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9343,
+        "br_y": 0.785,
+        "tl_x": 0.0717,
+        "tl_y": 0.1918
+    }
+}

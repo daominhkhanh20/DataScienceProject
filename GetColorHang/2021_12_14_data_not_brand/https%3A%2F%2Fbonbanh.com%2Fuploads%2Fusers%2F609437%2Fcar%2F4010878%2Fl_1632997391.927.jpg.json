@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "MAZDA",
+        "model": "Bongo",
+        "generation": "III (1983-1999)",
+        "years": "1983-1999",
+        "prob": "81.75"
+    },
+    "color": {
+        "name": "Black/Green",
+        "probability": 0.9369000000000001
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9978
+    },
+    "bbox": {
+        "br_x": 0.9082,
+        "br_y": 0.6415,
+        "tl_x": 0,
+        "tl_y": 0.2055
+    }
+}

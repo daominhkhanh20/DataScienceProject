@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Alphard",
+        "generation": "I facelift (2005-2008)",
+        "years": "2005-2008",
+        "prob": "37.68"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.8727
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9352,
+        "br_y": 0.7595,
+        "tl_x": 0.0109,
+        "tl_y": 0.295
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Renault",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "85.16"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.3513
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.827
+    },
+    "bbox": {
+        "br_x": 0.9544,
+        "br_y": 0.8512,
+        "tl_x": 0.0148,
+        "tl_y": 0.282
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Honda",
+        "model": "Accord (North America)",
+        "generation": "X (2017-)",
+        "years": "2017-",
+        "prob": "67.02"
+    },
+    "color": {
+        "name": "Black/Green",
+        "probability": 0.9077
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9989
+    },
+    "bbox": {
+        "br_x": 0.9516,
+        "br_y": 0.9924,
+        "tl_x": 0.0034,
+        "tl_y": 0.0214
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Chevrolet",
+        "model": "Blazer",
+        "generation": "II facelift (1998-2005)",
+        "years": "1998-2005",
+        "prob": "76.63"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9323
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.8467,
+        "br_y": 0.6322,
+        "tl_x": 0.1122,
+        "tl_y": 0.1786
+    }
+}

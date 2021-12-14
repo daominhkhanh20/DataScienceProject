@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Lincoln",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "99.99"
+    },
+    "color": {
+        "name": "Red",
+        "probability": 0.9528
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.8455
+    },
+    "bbox": {
+        "br_x": 0.8691,
+        "br_y": 0.9343,
+        "tl_x": 0,
+        "tl_y": 0.0027
+    }
+}

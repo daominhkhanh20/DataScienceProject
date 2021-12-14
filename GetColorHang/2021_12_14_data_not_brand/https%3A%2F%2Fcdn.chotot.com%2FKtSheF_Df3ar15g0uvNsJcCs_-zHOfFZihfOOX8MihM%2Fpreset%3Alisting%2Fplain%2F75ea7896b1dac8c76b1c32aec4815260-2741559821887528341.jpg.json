@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Honda",
+        "model": "Ridgeline",
+        "generation": "II (2016-)",
+        "years": "2016-",
+        "prob": "98.84"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9714
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9004,
+        "br_y": 0.9442,
+        "tl_x": 0.0166,
+        "tl_y": 0.1458
+    }
+}

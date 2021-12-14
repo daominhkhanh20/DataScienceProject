@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Peugeot",
+        "model": "806",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "66.95"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.7245
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.9899
+    },
+    "bbox": {
+        "br_x": 0.8229,
+        "br_y": 0.7275,
+        "tl_x": 0.2007,
+        "tl_y": 0.3044
+    }
+}

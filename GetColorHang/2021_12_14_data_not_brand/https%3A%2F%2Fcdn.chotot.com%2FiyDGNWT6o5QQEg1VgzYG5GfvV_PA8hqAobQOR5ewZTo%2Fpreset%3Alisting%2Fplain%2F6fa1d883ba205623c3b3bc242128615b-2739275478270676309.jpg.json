@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Cerato",
+        "generation": "III (Classic) facelift (2016-)",
+        "years": "2016-",
+        "prob": "96.82"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9968
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.99,
+        "br_y": 0.7825,
+        "tl_x": 0.003,
+        "tl_y": 0.3925
+    }
+}

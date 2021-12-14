@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "UAZ",
+        "model": "3151",
+        "generation": "1985 - 2013",
+        "years": "1985-2013",
+        "prob": "97.97"
+    },
+    "color": {
+        "name": "White/Silver",
+        "probability": 0.8413999999999999
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.8347
+    },
+    "bbox": {
+        "br_x": 1,
+        "br_y": 0.9639,
+        "tl_x": 0.0284,
+        "tl_y": 0.0032
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "Elantra",
+        "generation": "VI (AD) facelift (2019-)",
+        "years": "2019-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9953
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9652,
+        "br_y": 0.8755,
+        "tl_x": 0.0716,
+        "tl_y": 0.1391
+    }
+}

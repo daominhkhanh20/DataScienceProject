@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mercury",
+        "model": "Mariner",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "91.20"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.3792
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9997
+    },
+    "bbox": {
+        "br_x": 0.9949,
+        "br_y": 0.846,
+        "tl_x": 0.0019,
+        "tl_y": 0.0029
+    }
+}

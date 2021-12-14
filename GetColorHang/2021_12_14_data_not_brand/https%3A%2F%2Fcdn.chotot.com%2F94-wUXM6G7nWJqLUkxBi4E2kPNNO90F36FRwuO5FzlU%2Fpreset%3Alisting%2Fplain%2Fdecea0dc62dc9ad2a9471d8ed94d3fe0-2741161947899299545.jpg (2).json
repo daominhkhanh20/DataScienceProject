@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "Tucson",
+        "generation": "III facelift (2018-)",
+        "years": "2018-",
+        "prob": "80.11"
+    },
+    "color": {
+        "name": "Brown",
+        "probability": 0.7038
+    },
+    "angle": {
+        "name": "Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9955,
+        "br_y": 0.9735,
+        "tl_x": 0.0008,
+        "tl_y": 0.1783
+    }
+}

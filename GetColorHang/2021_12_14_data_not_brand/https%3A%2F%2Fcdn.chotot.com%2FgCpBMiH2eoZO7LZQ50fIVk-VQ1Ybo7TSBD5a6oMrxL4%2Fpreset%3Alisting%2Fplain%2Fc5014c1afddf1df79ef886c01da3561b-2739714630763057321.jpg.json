@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Opel",
+        "model": "Karl",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "Red",
+        "probability": 0.8357
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8645,
+        "br_y": 0.923,
+        "tl_x": 0.1912,
+        "tl_y": 0.1434
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Jeep",
+        "model": "Cherokee",
+        "generation": "II (XJ) (1984-1996)",
+        "years": "1984-1996",
+        "prob": "49.09"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.7768
+    },
+    "bbox": {
+        "br_x": 0.995,
+        "br_y": 0.6716,
+        "tl_x": 0.0351,
+        "tl_y": 0.0279
+    }
+}

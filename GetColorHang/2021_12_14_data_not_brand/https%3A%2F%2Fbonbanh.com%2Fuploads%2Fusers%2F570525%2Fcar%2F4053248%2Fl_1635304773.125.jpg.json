@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Cube",
+        "generation": "III (Z12) (2008-)",
+        "years": "2008-",
+        "prob": "97.87"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8134
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9977
+    },
+    "bbox": {
+        "br_x": 0.964,
+        "br_y": 0.6928,
+        "tl_x": 0.031,
+        "tl_y": 0.1224
+    }
+}

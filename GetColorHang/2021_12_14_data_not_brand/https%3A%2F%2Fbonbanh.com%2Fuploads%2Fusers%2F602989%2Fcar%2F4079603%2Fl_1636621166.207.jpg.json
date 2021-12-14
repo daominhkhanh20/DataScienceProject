@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Vanette",
+        "generation": "IV (1999-2017)",
+        "years": "1999-2017",
+        "prob": "98.79"
+    },
+    "color": {
+        "name": "Silver/White",
+        "probability": 0.8775
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.9345,
+        "br_y": 0.9928,
+        "tl_x": 0.0017,
+        "tl_y": 0.1831
+    }
+}

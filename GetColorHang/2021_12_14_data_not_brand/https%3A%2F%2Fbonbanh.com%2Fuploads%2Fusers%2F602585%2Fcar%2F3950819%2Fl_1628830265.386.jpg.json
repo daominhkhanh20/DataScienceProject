@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Renault",
+        "model": "Scenic",
+        "generation": "I facelift (1999-2003)",
+        "years": "1999-2003",
+        "prob": "82.36"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9694
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9925,
+        "br_y": 0.8365,
+        "tl_x": 0.0072,
+        "tl_y": 0.1561
+    }
+}

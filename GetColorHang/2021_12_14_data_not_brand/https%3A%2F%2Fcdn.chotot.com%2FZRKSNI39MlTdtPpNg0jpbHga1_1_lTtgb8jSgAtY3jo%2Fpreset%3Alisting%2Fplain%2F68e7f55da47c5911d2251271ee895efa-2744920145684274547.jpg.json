@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Renault",
+        "model": "Symbol",
+        "generation": "II (2008-2012)",
+        "years": "2008-2012",
+        "prob": "86.11"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.8043
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9736,
+        "br_y": 0.9121,
+        "tl_x": 0.0028,
+        "tl_y": 0.1562
+    }
+}

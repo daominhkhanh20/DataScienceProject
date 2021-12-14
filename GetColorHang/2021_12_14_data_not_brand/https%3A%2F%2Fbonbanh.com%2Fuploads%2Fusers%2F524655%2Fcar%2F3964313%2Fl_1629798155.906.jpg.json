@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mitsubishi",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "86.41"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9718
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.9996
+    },
+    "bbox": {
+        "br_x": 0.8548,
+        "br_y": 0.5007,
+        "tl_x": 0.0196,
+        "tl_y": 0.1891
+    }
+}

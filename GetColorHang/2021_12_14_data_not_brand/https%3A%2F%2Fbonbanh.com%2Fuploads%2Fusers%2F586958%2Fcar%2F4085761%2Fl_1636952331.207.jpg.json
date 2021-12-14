@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "Santa Fe",
+        "generation": "I (Classic) (2000-2012)",
+        "years": "2000-2012",
+        "prob": "89.60"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.6604
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9997
+    },
+    "bbox": {
+        "br_x": 0.7478,
+        "br_y": 0.9427,
+        "tl_x": 0.1486,
+        "tl_y": 0.3011
+    }
+}

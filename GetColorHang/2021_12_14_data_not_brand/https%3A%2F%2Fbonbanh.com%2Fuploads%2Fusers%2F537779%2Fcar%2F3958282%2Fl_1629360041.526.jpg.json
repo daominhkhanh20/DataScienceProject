@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Citroen",
+        "model": "Jumpy",
+        "generation": "II (2007-2012)",
+        "years": "2007-2012",
+        "prob": "78.55"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9878
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9318
+    },
+    "bbox": {
+        "br_x": 0.9753,
+        "br_y": 0.7925,
+        "tl_x": 0.4337,
+        "tl_y": 0.4048
+    }
+}

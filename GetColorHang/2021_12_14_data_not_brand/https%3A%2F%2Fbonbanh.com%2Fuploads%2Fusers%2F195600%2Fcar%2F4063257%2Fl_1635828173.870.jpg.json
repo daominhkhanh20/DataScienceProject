@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Honda",
+        "model": "Pilot",
+        "generation": "II facelift (2011-2015)",
+        "years": "2011-2015",
+        "prob": "68.26"
+    },
+    "color": {
+        "name": "Goldish",
+        "probability": 0.4321
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9951,
+        "br_y": 0.9738,
+        "tl_x": 0.1656,
+        "tl_y": 0.0801
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Aqua",
+        "generation": "I facelift (2014-)",
+        "years": "2014-",
+        "prob": "49.07"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.8688
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9113,
+        "br_y": 0.8623,
+        "tl_x": 0.1407,
+        "tl_y": 0.2163
+    }
+}

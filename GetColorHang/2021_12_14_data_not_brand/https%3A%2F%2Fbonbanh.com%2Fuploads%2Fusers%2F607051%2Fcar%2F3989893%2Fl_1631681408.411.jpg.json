@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "79.93"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.6843
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.9951
+    },
+    "bbox": {
+        "br_x": 0.9401,
+        "br_y": 0.8692,
+        "tl_x": 0.0272,
+        "tl_y": 0.2956
+    }
+}

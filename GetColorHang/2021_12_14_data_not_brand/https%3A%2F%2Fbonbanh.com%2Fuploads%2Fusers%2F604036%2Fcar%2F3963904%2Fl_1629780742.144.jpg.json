@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Cube",
+        "generation": "I (Z10) (1998-2000)",
+        "years": "1998-2000",
+        "prob": "81.12"
+    },
+    "color": {
+        "name": "Green/Blue",
+        "probability": 0.7191000000000001
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.6528
+    },
+    "bbox": {
+        "br_x": 0.8644,
+        "br_y": 0.5809,
+        "tl_x": 0.1106,
+        "tl_y": 0.1738
+    }
+}

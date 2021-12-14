@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Escape",
+        "generation": "III (2012-2015)",
+        "years": "2012-2015",
+        "prob": "83.37"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9751
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.686
+    },
+    "bbox": {
+        "br_x": 0.8208,
+        "br_y": 0.8879,
+        "tl_x": 0.2145,
+        "tl_y": 0.1267
+    }
+}

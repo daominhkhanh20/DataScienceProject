@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Alfa Romeo",
+        "model": "GTV",
+        "generation": "I facelift (1998-2002)",
+        "years": "1998-2002",
+        "prob": "76.49"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8706
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.9785
+    },
+    "bbox": {
+        "br_x": 0.8237,
+        "br_y": 0.9959,
+        "tl_x": 0.064,
+        "tl_y": 0.0832
+    }
+}

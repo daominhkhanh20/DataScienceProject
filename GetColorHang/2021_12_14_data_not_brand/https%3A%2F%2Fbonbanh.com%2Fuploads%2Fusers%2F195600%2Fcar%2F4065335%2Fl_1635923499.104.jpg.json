@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mitsubishi",
+        "model": "i-MiEV",
+        "generation": "2011 - Now",
+        "years": "2011-",
+        "prob": "51.45"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9889
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.9976
+    },
+    "bbox": {
+        "br_x": 0.8444,
+        "br_y": 0.8522,
+        "tl_x": 0.1951,
+        "tl_y": 0.1235
+    }
+}

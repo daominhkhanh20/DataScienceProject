@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Moscvich",
+        "model": "2140",
+        "generation": "1976 - 1988",
+        "years": "1976-1988",
+        "prob": "32.44"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.5789
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9501
+    },
+    "bbox": {
+        "br_x": 0.9213,
+        "br_y": 0.9231,
+        "tl_x": 0.0937,
+        "tl_y": 0.1163
+    }
+}

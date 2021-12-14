@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Soul",
+        "generation": "I facelift (2011-2014)",
+        "years": "2011-2014",
+        "prob": "94.91"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8892
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.8498
+    },
+    "bbox": {
+        "br_x": 0.9674,
+        "br_y": 0.7324,
+        "tl_x": 0.0246,
+        "tl_y": 0.2318
+    }
+}

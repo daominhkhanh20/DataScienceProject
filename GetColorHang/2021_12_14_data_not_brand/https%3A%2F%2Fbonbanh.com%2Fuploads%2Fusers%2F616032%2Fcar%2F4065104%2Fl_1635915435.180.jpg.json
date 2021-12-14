@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Subaru",
+        "model": "Outback",
+        "generation": "V facelift (2017-2019)",
+        "years": "2017-2019",
+        "prob": "48.77"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8125
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.9477
+    },
+    "bbox": {
+        "br_x": 0.8376,
+        "br_y": 0.5587,
+        "tl_x": 0.1544,
+        "tl_y": 0.2223
+    }
+}

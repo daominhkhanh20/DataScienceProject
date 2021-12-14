@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Chevrolet",
+        "model": "Silverado",
+        "generation": "III (GMT K2XX) facelift (2015-2019)",
+        "years": "2015-2019",
+        "prob": "98.15"
+    },
+    "color": {
+        "name": "Silver/White",
+        "probability": 0.7825
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.8727
+    },
+    "bbox": {
+        "br_x": 0.9885,
+        "br_y": 0.9406,
+        "tl_x": 0,
+        "tl_y": 0.0403
+    }
+}

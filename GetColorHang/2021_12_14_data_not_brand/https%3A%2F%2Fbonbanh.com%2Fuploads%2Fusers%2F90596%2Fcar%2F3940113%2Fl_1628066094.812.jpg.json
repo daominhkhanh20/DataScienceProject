@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "H-1",
+        "generation": "II (2007-2015)",
+        "years": "2007-2015",
+        "prob": "98.99"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.8925
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8101,
+        "br_y": 0.883,
+        "tl_x": 0.2225,
+        "tl_y": 0.1634
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Aygo",
+        "generation": "I (2005-2009)",
+        "years": "2005-2009",
+        "prob": "97.41"
+    },
+    "color": {
+        "name": "Light Blue/Green",
+        "probability": 0.8468
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8017,
+        "br_y": 0.8398,
+        "tl_x": 0.195,
+        "tl_y": 0.123
+    }
+}

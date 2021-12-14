@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "HiAce",
+        "generation": "H100 (1989-2004)",
+        "years": "1989-2004",
+        "prob": "97.12"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.7861
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9978
+    },
+    "bbox": {
+        "br_x": 0.9253,
+        "br_y": 0.8534,
+        "tl_x": 0.0985,
+        "tl_y": 0
+    }
+}

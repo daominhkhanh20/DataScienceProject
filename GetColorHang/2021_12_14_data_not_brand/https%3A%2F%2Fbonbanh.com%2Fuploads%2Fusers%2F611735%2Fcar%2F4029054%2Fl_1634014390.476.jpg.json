@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "HiAce",
+        "generation": "H200 facelift (2010-)",
+        "years": "2010-",
+        "prob": "58.45"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9384
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9741
+    },
+    "bbox": {
+        "br_x": 0.899,
+        "br_y": 0.9792,
+        "tl_x": 0.0293,
+        "tl_y": 0.0185
+    }
+}

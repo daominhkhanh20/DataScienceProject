@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Camry",
+        "generation": "VII (XV50) facelift (2014-2017)",
+        "years": "2014-2017",
+        "prob": "60.87"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9919
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8698,
+        "br_y": 0.9297,
+        "tl_x": 0.004,
+        "tl_y": 0.031
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mitsubishi",
+        "model": "Delica",
+        "generation": "III (1986-1999)",
+        "years": "1986-1999",
+        "prob": "82.45"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.7693
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.999
+    },
+    "bbox": {
+        "br_x": 0.9511,
+        "br_y": 0.8521,
+        "tl_x": 0.0535,
+        "tl_y": 0.2749
+    }
+}

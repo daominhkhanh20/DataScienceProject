@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Jeep",
+        "model": "Cherokee",
+        "generation": "V (KL) facelift (2018-)",
+        "years": "2018-",
+        "prob": "99.87"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9655
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.5628
+    },
+    "bbox": {
+        "br_x": 0.9918,
+        "br_y": 0.9652,
+        "tl_x": 0.006,
+        "tl_y": 0.0532
+    }
+}

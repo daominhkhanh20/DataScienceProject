@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Daewoo",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "99.96"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6386
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9996
+    },
+    "bbox": {
+        "br_x": 0.9541,
+        "br_y": 0.7425,
+        "tl_x": 0.0586,
+        "tl_y": 0.1055
+    }
+}

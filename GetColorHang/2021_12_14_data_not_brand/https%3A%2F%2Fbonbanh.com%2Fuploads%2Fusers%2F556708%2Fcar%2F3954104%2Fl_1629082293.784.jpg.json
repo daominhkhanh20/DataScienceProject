@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mitsubishi",
+        "model": "Pajero",
+        "generation": "IV (2006-2011)",
+        "years": "2006-2011",
+        "prob": "87.10"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.8724
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.8483
+    },
+    "bbox": {
+        "br_x": 1,
+        "br_y": 0.6905,
+        "tl_x": 0.0328,
+        "tl_y": 0.1912
+    }
+}

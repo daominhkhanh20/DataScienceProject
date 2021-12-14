@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Subaru",
+        "model": "Legacy",
+        "generation": "V facelift (2012-2014)",
+        "years": "2012-2014",
+        "prob": "24.22"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.8308
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.995
+    },
+    "bbox": {
+        "br_x": 0.4718,
+        "br_y": 0.4688,
+        "tl_x": 0.0096,
+        "tl_y": 0.2016
+    }
+}

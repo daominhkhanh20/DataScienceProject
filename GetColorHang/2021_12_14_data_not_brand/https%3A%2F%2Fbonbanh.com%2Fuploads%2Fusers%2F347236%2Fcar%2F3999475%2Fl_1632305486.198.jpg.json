@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "LADA",
+        "model": "Granta",
+        "generation": "I (2011-2018)",
+        "years": "2011-2018",
+        "prob": "88.72"
+    },
+    "color": {
+        "name": "Blue/Green",
+        "probability": 0.8132
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9685,
+        "br_y": 0.9913,
+        "tl_x": 0,
+        "tl_y": 0.0581
+    }
+}

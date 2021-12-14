@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Audi",
+        "model": "R8",
+        "generation": "I (Typ 42) (2007-2012)",
+        "years": "2007-2012",
+        "prob": "86.45"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.6964
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.5464
+    },
+    "bbox": {
+        "br_x": 0.8502,
+        "br_y": 0.7247,
+        "tl_x": 0.0898,
+        "tl_y": 0.1801
+    }
+}

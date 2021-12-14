@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Cerato",
+        "generation": "IV (2018-)",
+        "years": "2018-",
+        "prob": "90.69"
+    },
+    "color": {
+        "name": "Beige",
+        "probability": 0.4035
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.933,
+        "br_y": 0.9497,
+        "tl_x": 0.0251,
+        "tl_y": 0.2894
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Volkswagen",
+        "model": "Type 2",
+        "generation": "T2 (1967-1979)",
+        "years": "1967-1979",
+        "prob": "81.71"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.5467
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.4672
+    },
+    "bbox": {
+        "br_x": 0.9766,
+        "br_y": 0.361,
+        "tl_x": 0.4565,
+        "tl_y": 0.1354
+    }
+}
