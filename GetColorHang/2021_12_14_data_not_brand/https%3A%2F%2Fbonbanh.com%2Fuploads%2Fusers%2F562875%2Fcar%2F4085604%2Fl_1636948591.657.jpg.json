@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Lamborghini",
+        "model": "Diablo",
+        "generation": "1990 - 2001",
+        "years": "1990-2001",
+        "prob": "62.16"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9889
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.7295,
+        "br_y": 0.9853,
+        "tl_x": 0.0248,
+        "tl_y": 0.0911
+    }
+}

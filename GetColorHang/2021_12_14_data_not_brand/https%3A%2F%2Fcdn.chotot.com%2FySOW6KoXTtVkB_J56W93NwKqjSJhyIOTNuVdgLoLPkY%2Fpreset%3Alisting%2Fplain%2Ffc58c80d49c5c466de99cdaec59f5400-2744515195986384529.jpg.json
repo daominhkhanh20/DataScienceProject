@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Versa",
+        "generation": "II facelift (2014-2019)",
+        "years": "2014-2019",
+        "prob": "58.22"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.3714
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9407,
+        "br_y": 0.8239,
+        "tl_x": 0.068,
+        "tl_y": 0.1346
+    }
+}

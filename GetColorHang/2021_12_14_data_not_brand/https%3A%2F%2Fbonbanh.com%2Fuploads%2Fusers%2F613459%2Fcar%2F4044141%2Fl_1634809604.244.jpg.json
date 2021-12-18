@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Lexus",
+        "model": "ES",
+        "generation": "V facelift (2009-2012)",
+        "years": "2009-2012",
+        "prob": "95.94"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.673
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.6799
+    },
+    "bbox": {
+        "br_x": 0.7555,
+        "br_y": 0.6425,
+        "tl_x": 0.1008,
+        "tl_y": 0.0563
+    }
+}

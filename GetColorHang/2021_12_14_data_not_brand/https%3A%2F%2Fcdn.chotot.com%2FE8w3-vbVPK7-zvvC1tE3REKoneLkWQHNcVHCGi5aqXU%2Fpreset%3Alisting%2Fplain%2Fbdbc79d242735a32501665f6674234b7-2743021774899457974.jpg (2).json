@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Picanto",
+        "generation": "II facelift (2015-2017)",
+        "years": "2015-2017",
+        "prob": "58.45"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9968
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.7689
+    },
+    "bbox": {
+        "br_x": 0.8846,
+        "br_y": 0.8179,
+        "tl_x": 0.0769,
+        "tl_y": 0.101
+    }
+}

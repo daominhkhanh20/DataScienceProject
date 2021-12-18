@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Focus (North America)",
+        "generation": "I (1999-2004)",
+        "years": "1999-2004",
+        "prob": "50.31"
+    },
+    "color": {
+        "name": "Red",
+        "probability": 0.8697
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8569,
+        "br_y": 0.8615,
+        "tl_x": 0.1238,
+        "tl_y": 0.0656
+    }
+}

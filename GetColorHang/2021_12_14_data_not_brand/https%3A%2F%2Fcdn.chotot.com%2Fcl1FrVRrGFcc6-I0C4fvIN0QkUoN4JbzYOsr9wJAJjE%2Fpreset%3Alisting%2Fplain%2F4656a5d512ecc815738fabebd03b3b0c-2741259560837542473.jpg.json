@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Jeep",
+        "model": "Wrangler",
+        "generation": "II (TJ) (1996-2006)",
+        "years": "1996-2006",
+        "prob": "99.79"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.9566,
+        "br_y": 0.9916,
+        "tl_x": 0.0165,
+        "tl_y": 0.0591
+    }
+}

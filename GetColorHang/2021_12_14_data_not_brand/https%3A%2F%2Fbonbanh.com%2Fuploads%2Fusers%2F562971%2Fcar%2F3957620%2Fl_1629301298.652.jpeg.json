@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Daihatsu",
+        "model": "Hijet",
+        "generation": "X (2004-)",
+        "years": "2004-",
+        "prob": "98.03"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.9325
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 1,
+        "br_y": 0.823,
+        "tl_x": 0.1426,
+        "tl_y": 0.2233
+    }
+}

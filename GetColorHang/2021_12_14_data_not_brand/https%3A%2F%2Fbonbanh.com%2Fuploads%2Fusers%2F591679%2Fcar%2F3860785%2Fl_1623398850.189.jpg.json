@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "UAZ",
+        "model": "469",
+        "generation": "1972 - 2011",
+        "years": "1972-2011",
+        "prob": "39.45"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9739
+    },
+    "bbox": {
+        "br_x": 0.9697,
+        "br_y": 0.8961,
+        "tl_x": 0.1517,
+        "tl_y": 0.1963
+    }
+}

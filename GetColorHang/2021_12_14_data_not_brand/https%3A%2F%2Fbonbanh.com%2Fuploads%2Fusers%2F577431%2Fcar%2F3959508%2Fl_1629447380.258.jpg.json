@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Chevrolet",
+        "model": "Express",
+        "generation": "II (2002-)",
+        "years": "2002-",
+        "prob": "95.36"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.9761
+    },
+    "bbox": {
+        "br_x": 0.9199,
+        "br_y": 0.781,
+        "tl_x": 0.1963,
+        "tl_y": 0.2194
+    }
+}

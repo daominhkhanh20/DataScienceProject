@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Land Rover",
+        "model": "Defender",
+        "generation": "I (1990-2007)",
+        "years": "1990-2007",
+        "prob": "99.63"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8266
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.933
+    },
+    "bbox": {
+        "br_x": 0.7702,
+        "br_y": 0.66,
+        "tl_x": 0.283,
+        "tl_y": 0.1046
+    }
+}

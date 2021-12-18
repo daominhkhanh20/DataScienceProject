@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mercedes-Benz",
+        "model": "G-klasse",
+        "generation": "II (W463) facelift (2006-2008)",
+        "years": "2006-2008",
+        "prob": "95.68"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.6101
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9981
+    },
+    "bbox": {
+        "br_x": 0.7178,
+        "br_y": 0.586,
+        "tl_x": 0.2246,
+        "tl_y": 0.2227
+    }
+}

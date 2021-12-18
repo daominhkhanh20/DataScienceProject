@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Daihatsu",
+        "model": "Mira",
+        "generation": "VII (2006-2018)",
+        "years": "2006-2018",
+        "prob": "49.73"
+    },
+    "color": {
+        "name": "White/Silver",
+        "probability": 0.7671
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.8263
+    },
+    "bbox": {
+        "br_x": 0.8015,
+        "br_y": 0.7229,
+        "tl_x": 0.183,
+        "tl_y": 0.1965
+    }
+}

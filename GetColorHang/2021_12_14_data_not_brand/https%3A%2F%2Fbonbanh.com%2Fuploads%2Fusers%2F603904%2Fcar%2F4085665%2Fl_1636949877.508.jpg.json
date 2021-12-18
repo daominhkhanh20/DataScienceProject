@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mercedes-Benz",
+        "model": "G-klasse",
+        "generation": "II (W463) facelift 4 (2015-2018)",
+        "years": "2015-2018",
+        "prob": "41.44"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.5897
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.5401
+    },
+    "bbox": {
+        "br_x": 0.8389,
+        "br_y": 0.9312,
+        "tl_x": 0.0738,
+        "tl_y": 0.0021
+    }
+}

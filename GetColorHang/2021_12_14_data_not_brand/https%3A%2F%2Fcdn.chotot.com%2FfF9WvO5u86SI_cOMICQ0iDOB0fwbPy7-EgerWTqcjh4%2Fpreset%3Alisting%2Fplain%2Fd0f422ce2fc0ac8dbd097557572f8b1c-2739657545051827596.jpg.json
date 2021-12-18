@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Yaris",
+        "generation": "III (XP130) facelift 2 (2017-)",
+        "years": "2017-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "Red",
+        "probability": 0.7828
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.832,
+        "br_y": 0.9203,
+        "tl_x": 0.1853,
+        "tl_y": 0.5354
+    }
+}

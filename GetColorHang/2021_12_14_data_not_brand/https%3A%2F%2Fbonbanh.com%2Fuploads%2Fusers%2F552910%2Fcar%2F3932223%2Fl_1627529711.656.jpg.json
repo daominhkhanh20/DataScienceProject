@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Cami",
+        "generation": "1999 - 2006",
+        "years": "1999-2006",
+        "prob": "68.85"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.732
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.7483,
+        "br_y": 0.978,
+        "tl_x": 0.0386,
+        "tl_y": 0.0421
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Land Rover",
+        "model": "Discovery",
+        "generation": "II facelift (2002-2004)",
+        "years": "2002-2004",
+        "prob": "30.92"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.3117
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.5004
+    },
+    "bbox": {
+        "br_x": 0.9392,
+        "br_y": 0.8474,
+        "tl_x": 0.025,
+        "tl_y": 0.176
+    }
+}

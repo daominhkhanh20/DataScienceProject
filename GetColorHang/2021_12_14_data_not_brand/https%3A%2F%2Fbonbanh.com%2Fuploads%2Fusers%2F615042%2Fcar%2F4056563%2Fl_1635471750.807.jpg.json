@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Peugeot",
+        "model": "404",
+        "generation": "1960 - 1975",
+        "years": "1960-1975",
+        "prob": "94.82"
+    },
+    "color": {
+        "name": "Silver/Gray",
+        "probability": 0.9032
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.996
+    },
+    "bbox": {
+        "br_x": 0.9419,
+        "br_y": 0.8653,
+        "tl_x": 0.0655,
+        "tl_y": 0.0582
+    }
+}

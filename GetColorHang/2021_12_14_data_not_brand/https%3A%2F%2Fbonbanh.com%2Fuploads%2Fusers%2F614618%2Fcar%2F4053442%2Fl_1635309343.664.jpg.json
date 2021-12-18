@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Largo",
+        "generation": "III (W30) (1993-1999)",
+        "years": "1993-1999",
+        "prob": "26.58"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.6168
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9961
+    },
+    "bbox": {
+        "br_x": 0.778,
+        "br_y": 0.8212,
+        "tl_x": 0.1729,
+        "tl_y": 0.4012
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "UAZ",
+        "model": "Hunter",
+        "generation": "2003 - Now",
+        "years": "2003-",
+        "prob": "48.55"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.4095
+    },
+    "angle": {
+        "name": "Right",
+        "probability": 0.881
+    },
+    "bbox": {
+        "br_x": 0.7925,
+        "br_y": 0.6177,
+        "tl_x": 0.0484,
+        "tl_y": 0.3321
+    }
+}

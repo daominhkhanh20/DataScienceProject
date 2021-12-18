@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Focus",
+        "generation": "II facelift (2008-2011)",
+        "years": "2008-2011",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9774
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9871,
+        "br_y": 0.7737,
+        "tl_x": 0.0365,
+        "tl_y": 0.1952
+    }
+}

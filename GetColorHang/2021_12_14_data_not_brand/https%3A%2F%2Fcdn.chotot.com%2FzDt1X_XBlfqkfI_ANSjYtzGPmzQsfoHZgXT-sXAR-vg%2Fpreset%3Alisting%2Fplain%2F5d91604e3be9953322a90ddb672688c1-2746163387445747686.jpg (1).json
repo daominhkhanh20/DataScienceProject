@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Chevrolet",
+        "model": "Spark",
+        "generation": "II (2005-2009)",
+        "years": "2005-2009",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6566
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 1,
+        "br_y": 0.9957,
+        "tl_x": 0.0937,
+        "tl_y": 0.0355
+    }
+}

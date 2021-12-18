@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Suzuki",
+        "model": "Splash",
+        "generation": "I facelift (2012-2015)",
+        "years": "2012-2015",
+        "prob": "84.32"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.4314
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.6862,
+        "br_y": 0.7617,
+        "tl_x": 0.2766,
+        "tl_y": 0.3222
+    }
+}

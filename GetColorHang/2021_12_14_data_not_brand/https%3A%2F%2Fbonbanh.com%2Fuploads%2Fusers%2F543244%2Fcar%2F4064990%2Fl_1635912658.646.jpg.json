@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Hilux",
+        "generation": "VI facelift (2001-2005)",
+        "years": "2001-2005",
+        "prob": "60.50"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.9744
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.999
+    },
+    "bbox": {
+        "br_x": 0.8328,
+        "br_y": 0.856,
+        "tl_x": 0.2203,
+        "tl_y": 0.1087
+    }
+}

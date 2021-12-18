@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "H-1",
+        "generation": "I (1997-2004)",
+        "years": "1997-2004",
+        "prob": "72.13"
+    },
+    "color": {
+        "name": "Black/Blue",
+        "probability": 0.9020999999999999
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8786,
+        "br_y": 0.9181,
+        "tl_x": 0.0689,
+        "tl_y": 0.0587
+    }
+}

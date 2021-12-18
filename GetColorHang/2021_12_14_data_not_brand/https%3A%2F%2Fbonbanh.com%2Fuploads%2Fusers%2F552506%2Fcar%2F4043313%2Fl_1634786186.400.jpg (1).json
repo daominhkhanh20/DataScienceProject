@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "Grand Starex Urban",
+        "generation": "II (2007-2015)",
+        "years": "2007-2015",
+        "prob": "60.95"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.9136
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.849
+    },
+    "bbox": {
+        "br_x": 0.9941,
+        "br_y": 0.9879,
+        "tl_x": 0,
+        "tl_y": 0.0115
+    }
+}

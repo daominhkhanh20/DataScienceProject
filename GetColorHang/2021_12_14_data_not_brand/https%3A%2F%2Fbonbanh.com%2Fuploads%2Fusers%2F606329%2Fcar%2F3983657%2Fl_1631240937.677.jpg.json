@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mitsubishi",
+        "model": "Delica",
+        "generation": "IV (1994-2007)",
+        "years": "1994-2007",
+        "prob": "70.44"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.9646
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.6483
+    },
+    "bbox": {
+        "br_x": 0.8357,
+        "br_y": 0.7333,
+        "tl_x": 0.1341,
+        "tl_y": 0.1733
+    }
+}

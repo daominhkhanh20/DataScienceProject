@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Audi",
+        "model": "TTS",
+        "generation": "II (8J) (2007-2010)",
+        "years": "2007-2010",
+        "prob": "69.90"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.7424
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.8472
+    },
+    "bbox": {
+        "br_x": 1,
+        "br_y": 0.9906,
+        "tl_x": 0,
+        "tl_y": 0.0023
+    }
+}

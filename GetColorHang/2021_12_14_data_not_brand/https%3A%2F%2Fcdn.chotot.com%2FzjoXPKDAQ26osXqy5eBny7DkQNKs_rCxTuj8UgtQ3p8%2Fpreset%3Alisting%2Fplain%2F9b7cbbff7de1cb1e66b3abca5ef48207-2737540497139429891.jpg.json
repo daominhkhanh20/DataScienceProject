@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Sorento",
+        "generation": "II (2009-2012)",
+        "years": "2009-2012",
+        "prob": "96.02"
+    },
+    "color": {
+        "name": "Black/Gray",
+        "probability": 0.9247000000000001
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8192,
+        "br_y": 0.926,
+        "tl_x": 0.1545,
+        "tl_y": 0.3032
+    }
+}

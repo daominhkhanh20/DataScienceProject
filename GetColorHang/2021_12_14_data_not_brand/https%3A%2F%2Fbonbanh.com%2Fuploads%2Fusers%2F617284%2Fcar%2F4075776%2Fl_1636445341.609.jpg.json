@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "49.60"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.6378
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9995
+    },
+    "bbox": {
+        "br_x": 0.8295,
+        "br_y": 0.9206,
+        "tl_x": 0.0627,
+        "tl_y": 0
+    }
+}

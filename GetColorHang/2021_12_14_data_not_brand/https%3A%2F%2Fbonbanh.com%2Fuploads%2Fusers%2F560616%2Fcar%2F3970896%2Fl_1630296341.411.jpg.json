@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Audi",
+        "model": "S5",
+        "generation": "II (F5) (2016-)",
+        "years": "2016-",
+        "prob": "99.53"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6838
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9992
+    },
+    "bbox": {
+        "br_x": 0.9712,
+        "br_y": 0.7506,
+        "tl_x": 0.04,
+        "tl_y": 0.1291
+    }
+}

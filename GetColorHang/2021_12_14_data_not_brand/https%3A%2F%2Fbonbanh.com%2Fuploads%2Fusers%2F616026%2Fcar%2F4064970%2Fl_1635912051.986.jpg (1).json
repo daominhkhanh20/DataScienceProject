@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Seat",
+        "model": "Ibiza",
+        "generation": "III facelift (2006-2008)",
+        "years": "2006-2008",
+        "prob": "76.82"
+    },
+    "color": {
+        "name": "Light Blue/Green",
+        "probability": 0.9818
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.5015
+    },
+    "bbox": {
+        "br_x": 0.983,
+        "br_y": 0.8276,
+        "tl_x": 0.3074,
+        "tl_y": 0.334
+    }
+}

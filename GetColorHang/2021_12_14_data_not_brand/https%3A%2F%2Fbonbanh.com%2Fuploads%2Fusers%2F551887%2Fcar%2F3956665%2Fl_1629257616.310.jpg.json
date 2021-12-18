@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "MAZDA",
+        "model": "Familia",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "93.06"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.3054
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.8319
+    },
+    "bbox": {
+        "br_x": 0.9667,
+        "br_y": 0.8913,
+        "tl_x": 0,
+        "tl_y": 0.1346
+    }
+}

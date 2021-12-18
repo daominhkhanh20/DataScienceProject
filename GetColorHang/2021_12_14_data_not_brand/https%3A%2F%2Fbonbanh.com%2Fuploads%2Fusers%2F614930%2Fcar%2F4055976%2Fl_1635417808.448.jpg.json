@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "SsangYong",
+        "model": "Istana",
+        "generation": "I (1995-2003)",
+        "years": "1995-2003",
+        "prob": "46.49"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.3744
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.6839
+    },
+    "bbox": {
+        "br_x": 0.6102,
+        "br_y": 0.9504,
+        "tl_x": 0.0789,
+        "tl_y": 0.1558
+    }
+}

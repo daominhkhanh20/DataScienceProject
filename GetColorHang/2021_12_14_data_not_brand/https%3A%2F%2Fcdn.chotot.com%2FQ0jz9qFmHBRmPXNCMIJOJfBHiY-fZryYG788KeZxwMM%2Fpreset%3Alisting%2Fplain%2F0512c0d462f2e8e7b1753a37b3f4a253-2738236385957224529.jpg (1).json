@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Ranger",
+        "generation": "IV (2015-)",
+        "years": "2015-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9908
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9468,
+        "br_y": 0.9297,
+        "tl_x": 0.0348,
+        "tl_y": 0.0735
+    }
+}

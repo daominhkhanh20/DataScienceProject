@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Voxy",
+        "generation": "III (R80) (2014-)",
+        "years": "2014-",
+        "prob": "35.45"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8323
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.994
+    },
+    "bbox": {
+        "br_x": 0.6654,
+        "br_y": 0.8864,
+        "tl_x": 0.3248,
+        "tl_y": 0.1827
+    }
+}

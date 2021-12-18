@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Tourneo Custom",
+        "generation": "I (2012-2018)",
+        "years": "2012-2018",
+        "prob": "99.97"
+    },
+    "color": {
+        "name": "Brown",
+        "probability": 0.9765
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9436,
+        "br_y": 0.9123,
+        "tl_x": 0.049,
+        "tl_y": 0.0809
+    }
+}

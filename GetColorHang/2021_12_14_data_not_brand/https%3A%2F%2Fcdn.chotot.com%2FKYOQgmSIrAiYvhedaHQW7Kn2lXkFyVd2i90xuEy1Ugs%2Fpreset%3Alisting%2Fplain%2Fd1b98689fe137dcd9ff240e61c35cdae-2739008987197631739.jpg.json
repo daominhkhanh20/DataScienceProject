@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Fortuner",
+        "generation": "II (2015-)",
+        "years": "2015-",
+        "prob": "99.88"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.6712
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8662,
+        "br_y": 0.9604,
+        "tl_x": 0.1122,
+        "tl_y": 0.3117
+    }
+}

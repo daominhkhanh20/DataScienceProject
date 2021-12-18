@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Volkswagen",
+        "model": "Passat",
+        "generation": "B3 (1988-1997)",
+        "years": "1988-1997",
+        "prob": "79.83"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.7269
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9968
+    },
+    "bbox": {
+        "br_x": 0.9032,
+        "br_y": 0.6297,
+        "tl_x": 0.2479,
+        "tl_y": 0.1658
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Chevrolet",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "92.51"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.3645
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9986,
+        "br_y": 0.9124,
+        "tl_x": 0.0838,
+        "tl_y": 0.067
+    }
+}

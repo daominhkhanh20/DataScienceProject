@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Explorer",
+        "generation": "V (U502) facelift (2015-2017)",
+        "years": "2015-2017",
+        "prob": "49.82"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.6045
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.5117
+    },
+    "bbox": {
+        "br_x": 0.9886,
+        "br_y": 0.9886,
+        "tl_x": 0.0198,
+        "tl_y": 0.0084
+    }
+}

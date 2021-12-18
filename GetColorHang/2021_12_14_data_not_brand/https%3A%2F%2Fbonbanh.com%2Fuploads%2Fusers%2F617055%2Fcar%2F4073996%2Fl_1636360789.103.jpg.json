@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Daewoo",
+        "model": "Lanos",
+        "generation": "1997 - 2008",
+        "years": "1997-2008",
+        "prob": "81.07"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.7532
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.7257
+    },
+    "bbox": {
+        "br_x": 0.9186,
+        "br_y": 0.7529,
+        "tl_x": 0.0409,
+        "tl_y": 0.1702
+    }
+}

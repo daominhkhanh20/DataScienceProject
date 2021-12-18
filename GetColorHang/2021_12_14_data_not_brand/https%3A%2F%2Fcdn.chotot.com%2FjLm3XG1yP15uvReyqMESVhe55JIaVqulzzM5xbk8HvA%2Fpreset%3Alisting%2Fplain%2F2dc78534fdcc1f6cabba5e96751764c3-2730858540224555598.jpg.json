@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mercedes-Benz",
+        "model": "GLC AMG",
+        "generation": "I (X253) (2016-2019)",
+        "years": "2016-2019",
+        "prob": "99.97"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9941
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8795,
+        "br_y": 1,
+        "tl_x": 0.1173,
+        "tl_y": 0.2531
+    }
+}

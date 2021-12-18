@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Saturn",
+        "model": "VUE",
+        "generation": "II (2007-2009)",
+        "years": "2007-2009",
+        "prob": "63.47"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9029
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.8339
+    },
+    "bbox": {
+        "br_x": 0.9284,
+        "br_y": 0.7594,
+        "tl_x": 0.1126,
+        "tl_y": 0.3373
+    }
+}

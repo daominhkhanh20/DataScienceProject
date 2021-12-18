@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "Starex",
+        "generation": "I facelift (2000-2004)",
+        "years": "2000-2004",
+        "prob": "98.82"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.6236
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9961,
+        "br_y": 0.8583,
+        "tl_x": 0.0031,
+        "tl_y": 0.0298
+    }
+}

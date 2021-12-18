@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Honda",
+        "model": "Stepwgn",
+        "generation": "III (2005-2009)",
+        "years": "2005-2009",
+        "prob": "93.44"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.7703
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9665,
+        "br_y": 0.6371,
+        "tl_x": 0.2168,
+        "tl_y": 0.1367
+    }
+}

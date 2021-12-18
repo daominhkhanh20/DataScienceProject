@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Renault",
+        "model": "Kangoo",
+        "generation": "I (1997-2003)",
+        "years": "1997-2003",
+        "prob": "70.83"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.7362
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9967
+    },
+    "bbox": {
+        "br_x": 0.998,
+        "br_y": 0.9959,
+        "tl_x": 0,
+        "tl_y": 0.0027
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "GMC",
+        "model": "Terrain",
+        "generation": "I (2009-2015)",
+        "years": "2009-2015",
+        "prob": "71.86"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.5942
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9655
+    },
+    "bbox": {
+        "br_x": 0.9523,
+        "br_y": 0.9948,
+        "tl_x": 0.1413,
+        "tl_y": 0.1172
+    }
+}

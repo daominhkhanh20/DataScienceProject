@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Ranger",
+        "generation": "III (2011-2015)",
+        "years": "2011-2015",
+        "prob": "36.86"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6777
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9253,
+        "br_y": 0.8862,
+        "tl_x": 0.1318,
+        "tl_y": 0.2225
+    }
+}

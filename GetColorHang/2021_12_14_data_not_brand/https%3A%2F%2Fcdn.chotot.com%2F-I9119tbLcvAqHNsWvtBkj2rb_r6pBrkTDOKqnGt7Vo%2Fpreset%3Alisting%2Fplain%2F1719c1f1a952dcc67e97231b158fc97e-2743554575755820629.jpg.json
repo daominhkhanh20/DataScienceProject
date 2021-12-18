@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mitsubishi",
+        "model": "Space Star",
+        "generation": "II facelift (2016-)",
+        "years": "2016-",
+        "prob": "99.88"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.7203
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9243,
+        "br_y": 0.9527,
+        "tl_x": 0.0104,
+        "tl_y": 0.4854
+    }
+}

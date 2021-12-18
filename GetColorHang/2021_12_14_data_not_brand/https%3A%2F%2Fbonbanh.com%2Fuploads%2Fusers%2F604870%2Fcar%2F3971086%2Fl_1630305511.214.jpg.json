@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Peugeot",
+        "model": "Partner",
+        "generation": "I (1997-2002)",
+        "years": "1997-2002",
+        "prob": "29.21"
+    },
+    "color": {
+        "name": "Light Blue/Blue",
+        "probability": 0.7253000000000001
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9998
+    },
+    "bbox": {
+        "br_x": 0.8029,
+        "br_y": 0.8903,
+        "tl_x": 0.2245,
+        "tl_y": 0.0793
+    }
+}

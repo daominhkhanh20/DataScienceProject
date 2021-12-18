@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Audi",
+        "model": "S6",
+        "generation": "III (C6) (2006-2008)",
+        "years": "2006-2008",
+        "prob": "69.09"
+    },
+    "color": {
+        "name": "Red",
+        "probability": 0.7775
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.7576,
+        "br_y": 0.9813,
+        "tl_x": 0.242,
+        "tl_y": 0.1481
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "UAZ",
+        "model": "Pickup",
+        "generation": "I facelift 2 (2016-)",
+        "years": "2016-",
+        "prob": "89.42"
+    },
+    "color": {
+        "name": "Gray",
+        "probability": 0.5692
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.7805,
+        "br_y": 0.9678,
+        "tl_x": 0.2515,
+        "tl_y": 0.0301
+    }
+}

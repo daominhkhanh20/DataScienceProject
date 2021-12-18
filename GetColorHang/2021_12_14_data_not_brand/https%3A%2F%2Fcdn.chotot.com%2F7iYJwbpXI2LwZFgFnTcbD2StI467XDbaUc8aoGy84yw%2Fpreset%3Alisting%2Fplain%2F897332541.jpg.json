@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Daewoo",
+        "model": "Matiz",
+        "generation": "I facelift (2000-2015)",
+        "years": "2000-2015",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.891
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8319,
+        "br_y": 0.9651,
+        "tl_x": 0.0811,
+        "tl_y": 0.0827
+    }
+}

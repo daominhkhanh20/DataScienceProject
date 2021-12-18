@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "i20",
+        "generation": "II (IB) facelift (2018-)",
+        "years": "2018-",
+        "prob": "60.74"
+    },
+    "color": {
+        "name": "Brown",
+        "probability": 0.4168
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.858,
+        "br_y": 0.8647,
+        "tl_x": 0.1338,
+        "tl_y": 0.1844
+    }
+}

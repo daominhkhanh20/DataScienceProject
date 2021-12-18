@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Volkswagen",
+        "model": "Caravelle",
+        "generation": "T5 facelift (2009-2015)",
+        "years": "2009-2015",
+        "prob": "84.16"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8088
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.7701
+    },
+    "bbox": {
+        "br_x": 0.8774,
+        "br_y": 0.8039,
+        "tl_x": 0.0918,
+        "tl_y": 0.2827
+    }
+}

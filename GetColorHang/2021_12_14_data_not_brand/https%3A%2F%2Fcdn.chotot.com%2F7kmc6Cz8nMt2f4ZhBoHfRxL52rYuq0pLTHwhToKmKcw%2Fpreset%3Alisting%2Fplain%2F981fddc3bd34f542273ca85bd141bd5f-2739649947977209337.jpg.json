@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mitsubishi",
+        "model": "Triton",
+        "generation": "V (KJ/KK/KL) (2015-)",
+        "years": "2015-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.9063
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.7598,
+        "br_y": 0.9315,
+        "tl_x": 0.2558,
+        "tl_y": 0.3926
+    }
+}

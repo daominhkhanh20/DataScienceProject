@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "IZ",
+        "model": "2126 «Oda»",
+        "generation": "1990 - 2005",
+        "years": "1990-2005",
+        "prob": "76.89"
+    },
+    "color": {
+        "name": "Blue/Light Blue",
+        "probability": 0.7025
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.9836,
+        "br_y": 0.8406,
+        "tl_x": 0,
+        "tl_y": 0.1949
+    }
+}

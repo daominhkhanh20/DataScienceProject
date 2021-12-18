@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Volkswagen",
+        "model": "Transporter",
+        "generation": "T3 (1979-1992)",
+        "years": "1979-1992",
+        "prob": "43.57"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.8656
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.9982,
+        "br_y": 0.9925,
+        "tl_x": 0.0245,
+        "tl_y": 0.0033
+    }
+}

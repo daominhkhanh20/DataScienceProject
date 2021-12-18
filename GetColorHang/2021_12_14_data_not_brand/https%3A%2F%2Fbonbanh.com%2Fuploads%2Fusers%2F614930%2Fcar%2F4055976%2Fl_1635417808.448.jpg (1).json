@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Geely",
+        "model": "MK",
+        "generation": "I facelift (2013-2015)",
+        "years": "2013-2015",
+        "prob": "96.85"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9857
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.837
+    },
+    "bbox": {
+        "br_x": 0.877,
+        "br_y": 0.9148,
+        "tl_x": 0.134,
+        "tl_y": 0.0918
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Vellfire",
+        "generation": "II (2015-)",
+        "years": "2015-",
+        "prob": "46.88"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.5329
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9922
+    },
+    "bbox": {
+        "br_x": 0.8719,
+        "br_y": 0.638,
+        "tl_x": 0.0902,
+        "tl_y": 0.3204
+    }
+}

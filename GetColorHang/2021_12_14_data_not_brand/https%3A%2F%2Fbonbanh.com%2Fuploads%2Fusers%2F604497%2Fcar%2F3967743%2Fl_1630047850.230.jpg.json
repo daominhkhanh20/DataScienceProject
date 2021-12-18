@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Opel",
+        "model": "Astra",
+        "generation": "H facelift (2006-2014)",
+        "years": "2006-2014",
+        "prob": "94.39"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6941
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.9051
+    },
+    "bbox": {
+        "br_x": 0.9217,
+        "br_y": 0.8509,
+        "tl_x": 0.2866,
+        "tl_y": 0.1137
+    }
+}

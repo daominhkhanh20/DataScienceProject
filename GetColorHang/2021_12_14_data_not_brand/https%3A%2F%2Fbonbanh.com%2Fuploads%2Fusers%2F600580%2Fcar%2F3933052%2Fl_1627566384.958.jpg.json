@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "MAZDA",
+        "model": "CX-3",
+        "generation": "I (2015-)",
+        "years": "2015-",
+        "prob": "47.29"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6461
+    },
+    "angle": {
+        "name": "Back",
+        "probability": 0.9994
+    },
+    "bbox": {
+        "br_x": 0.5845,
+        "br_y": 0.7024,
+        "tl_x": 0.3133,
+        "tl_y": 0.3523
+    }
+}

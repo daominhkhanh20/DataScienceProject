@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Lotus",
+        "model": "Exige",
+        "generation": "III (2011-)",
+        "years": "2011-",
+        "prob": "56.57"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.9169
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.9616
+    },
+    "bbox": {
+        "br_x": 0.9852,
+        "br_y": 0.9933,
+        "tl_x": 0.013,
+        "tl_y": 0.0033
+    }
+}

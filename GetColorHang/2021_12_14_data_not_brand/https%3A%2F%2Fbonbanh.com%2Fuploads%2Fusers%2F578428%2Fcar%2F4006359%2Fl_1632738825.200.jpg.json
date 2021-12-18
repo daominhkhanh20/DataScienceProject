@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Citroen",
+        "model": "C1",
+        "generation": "I facelift (2008-2012)",
+        "years": "2008-2012",
+        "prob": "68.54"
+    },
+    "color": {
+        "name": "Silver",
+        "probability": 0.5142
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.9931
+    },
+    "bbox": {
+        "br_x": 0.7773,
+        "br_y": 0.7235,
+        "tl_x": 0.0652,
+        "tl_y": 0.2507
+    }
+}

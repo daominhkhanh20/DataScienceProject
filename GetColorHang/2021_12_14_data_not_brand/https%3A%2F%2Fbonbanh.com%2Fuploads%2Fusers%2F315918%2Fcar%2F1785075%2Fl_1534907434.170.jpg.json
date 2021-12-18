@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Scion",
+        "model": "xD",
+        "generation": "2008 - 2014",
+        "years": "2008-2014",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8822,
+        "br_y": 0.8283,
+        "tl_x": 0.1577,
+        "tl_y": 0.1588
+    }
+}

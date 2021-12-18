@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Chevrolet",
+        "model": "Bolt",
+        "generation": "2016 - Now",
+        "years": "2016-",
+        "prob": "82.40"
+    },
+    "color": {
+        "name": "Light Blue",
+        "probability": 0.5596
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.7846,
+        "br_y": 0.8473,
+        "tl_x": 0.1784,
+        "tl_y": 0.1726
+    }
+}

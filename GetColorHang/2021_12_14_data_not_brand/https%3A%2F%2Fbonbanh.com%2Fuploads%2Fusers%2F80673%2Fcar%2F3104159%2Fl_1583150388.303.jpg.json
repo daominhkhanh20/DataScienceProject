@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Nissan",
+        "model": "Caravan",
+        "generation": "IV (E25) (2001-2012)",
+        "years": "2001-2012",
+        "prob": "75.03"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.6248
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9982
+    },
+    "bbox": {
+        "br_x": 0.8537,
+        "br_y": 0.9511,
+        "tl_x": 0.1169,
+        "tl_y": 0.0428
+    }
+}

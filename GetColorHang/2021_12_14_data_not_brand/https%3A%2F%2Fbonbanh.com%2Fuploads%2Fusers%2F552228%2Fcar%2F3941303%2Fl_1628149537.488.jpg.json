@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Regius",
+        "generation": "1997 - 2002",
+        "years": "1997-2002",
+        "prob": "56.30"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.8479
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8826,
+        "br_y": 0.9455,
+        "tl_x": 0.1722,
+        "tl_y": 0.0268
+    }
+}

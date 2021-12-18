@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mitsubishi",
+        "model": "Pajero Pinin",
+        "generation": "1998 - 2006",
+        "years": "1998-2006",
+        "prob": "52.23"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.5797
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.89
+    },
+    "bbox": {
+        "br_x": 0.9189,
+        "br_y": 0.6028,
+        "tl_x": 0.2357,
+        "tl_y": 0.2928
+    }
+}

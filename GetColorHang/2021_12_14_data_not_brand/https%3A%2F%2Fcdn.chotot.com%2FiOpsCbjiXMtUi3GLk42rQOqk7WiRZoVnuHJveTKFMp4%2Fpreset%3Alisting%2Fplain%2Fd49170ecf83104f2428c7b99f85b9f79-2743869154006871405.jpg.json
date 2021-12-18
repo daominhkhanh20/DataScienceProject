@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "MAZDA",
+        "model": "Demio",
+        "generation": "III (DE) (2007-2014)",
+        "years": "2007-2014",
+        "prob": "24.80"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9383
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.7239
+    },
+    "bbox": {
+        "br_x": 0.5178,
+        "br_y": 0.9943,
+        "tl_x": 0.0097,
+        "tl_y": 0.4277
+    }
+}

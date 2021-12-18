@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "Elantra",
+        "generation": "VI (AD) (2015-2019)",
+        "years": "2015-2019",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.8132
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8721,
+        "br_y": 0.8742,
+        "tl_x": 0.1041,
+        "tl_y": 0.0731
+    }
+}

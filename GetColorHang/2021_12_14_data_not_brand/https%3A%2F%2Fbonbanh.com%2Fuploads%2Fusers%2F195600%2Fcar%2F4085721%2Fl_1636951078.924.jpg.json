@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Opel",
+        "model": "Vivaro",
+        "generation": "B (2014-2019)",
+        "years": "2014-2019",
+        "prob": "66.30"
+    },
+    "color": {
+        "name": "Yellow",
+        "probability": 0.9644
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.9727
+    },
+    "bbox": {
+        "br_x": 0.9605,
+        "br_y": 0.7151,
+        "tl_x": 0.1106,
+        "tl_y": 0.0782
+    }
+}

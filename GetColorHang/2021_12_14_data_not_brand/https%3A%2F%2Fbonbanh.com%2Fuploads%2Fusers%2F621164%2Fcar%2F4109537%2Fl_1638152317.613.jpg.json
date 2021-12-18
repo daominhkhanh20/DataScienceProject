@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Volkswagen",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "48.08"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.6896
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.9863,
+        "br_y": 0.9012,
+        "tl_x": 0.0896,
+        "tl_y": 0.2411
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Tourneo Connect",
+        "generation": "I facelift (2009-2013)",
+        "years": "2009-2013",
+        "prob": "80.73"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.4317
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.9985
+    },
+    "bbox": {
+        "br_x": 0.82,
+        "br_y": 0.7122,
+        "tl_x": 0.0856,
+        "tl_y": 0.2341
+    }
+}

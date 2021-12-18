@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Aston Martin",
+        "model": "DB9",
+        "generation": "I (2003-2008)",
+        "years": "2003-2008",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9468
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 0.9789
+    },
+    "bbox": {
+        "br_x": 0.9077,
+        "br_y": 0.8566,
+        "tl_x": 0.0661,
+        "tl_y": 0.4561
+    }
+}

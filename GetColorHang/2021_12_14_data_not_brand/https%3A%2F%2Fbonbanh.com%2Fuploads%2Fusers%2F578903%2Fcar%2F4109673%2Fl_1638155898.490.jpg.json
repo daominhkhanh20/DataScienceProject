@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Escort",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "99.93"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.9472
+    },
+    "angle": {
+        "name": "Left",
+        "probability": 0.9917
+    },
+    "bbox": {
+        "br_x": 0.8995,
+        "br_y": 0.4575,
+        "tl_x": 0.0132,
+        "tl_y": 0.1587
+    }
+}

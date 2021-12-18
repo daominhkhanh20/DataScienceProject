@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Changan",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "47.64"
+    },
+    "color": {
+        "name": "Blue",
+        "probability": 0.9628
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.9917,
+        "br_y": 0.9661,
+        "tl_x": 0.0296,
+        "tl_y": 0.3281
+    }
+}

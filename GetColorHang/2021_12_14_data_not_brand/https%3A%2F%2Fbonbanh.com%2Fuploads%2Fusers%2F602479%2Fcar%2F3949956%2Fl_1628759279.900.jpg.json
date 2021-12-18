@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mercedes-Benz",
+        "model": "Vito",
+        "generation": "II (W639) facelift (2010-2014)",
+        "years": "2010-2014",
+        "prob": "61.82"
+    },
+    "color": {
+        "name": "Blue/Green",
+        "probability": 0.9791000000000001
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 0.7129
+    },
+    "bbox": {
+        "br_x": 0.8705,
+        "br_y": 0.8722,
+        "tl_x": 0.2829,
+        "tl_y": 0.1426
+    }
+}

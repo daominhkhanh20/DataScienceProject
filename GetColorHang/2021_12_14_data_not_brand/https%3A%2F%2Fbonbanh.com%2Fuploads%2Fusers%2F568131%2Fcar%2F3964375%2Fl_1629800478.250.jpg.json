@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Land Cruiser Prado",
+        "generation": "II (J90) facelift (1999-2002)",
+        "years": "1999-2002",
+        "prob": "50.82"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9717
+    },
+    "bbox": {
+        "br_x": 0.8267,
+        "br_y": 0.8652,
+        "tl_x": 0,
+        "tl_y": 0.2461
+    }
+}

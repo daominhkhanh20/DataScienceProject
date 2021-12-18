@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Toyota",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "94.55"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9626
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.9999
+    },
+    "bbox": {
+        "br_x": 0.8784,
+        "br_y": 0.7854,
+        "tl_x": 0.2408,
+        "tl_y": 0.1637
+    }
+}

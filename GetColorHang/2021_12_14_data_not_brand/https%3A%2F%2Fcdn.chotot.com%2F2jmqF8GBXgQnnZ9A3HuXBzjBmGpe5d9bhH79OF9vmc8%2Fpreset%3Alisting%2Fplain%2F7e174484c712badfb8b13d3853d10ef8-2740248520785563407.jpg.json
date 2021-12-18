@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "MAZDA",
+        "model": "CX-5",
+        "generation": "II (2017-)",
+        "years": "2017-",
+        "prob": "100.00"
+    },
+    "color": {
+        "name": "Gray/Brown",
+        "probability": 0.8799
+    },
+    "angle": {
+        "name": "Front Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8662,
+        "br_y": 0.9204,
+        "tl_x": 0.0114,
+        "tl_y": 0.192
+    }
+}

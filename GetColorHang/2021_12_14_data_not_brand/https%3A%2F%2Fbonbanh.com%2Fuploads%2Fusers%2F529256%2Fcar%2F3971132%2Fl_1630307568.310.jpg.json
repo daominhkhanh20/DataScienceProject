@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "smart",
+        "model": "Fortwo",
+        "generation": "I facelift (2003-2007)",
+        "years": "2003-2007",
+        "prob": "79.36"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9298
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.5734,
+        "br_y": 0.6668,
+        "tl_x": 0.1472,
+        "tl_y": 0.2801
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mercedes-Benz",
+        "model": "G-klasse",
+        "generation": "II (W463) facelift 3 (2012-2015)",
+        "years": "2012-2015",
+        "prob": "71.40"
+    },
+    "color": {
+        "name": "",
+        "probability": 0
+    },
+    "angle": {
+        "name": "Left",
+        "probability": 0.499
+    },
+    "bbox": {
+        "br_x": 0.7419,
+        "br_y": 0.5773,
+        "tl_x": 0.3268,
+        "tl_y": 0.1067
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Daihatsu",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "99.22"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.8557
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.5135
+    },
+    "bbox": {
+        "br_x": 0.8275,
+        "br_y": 0.9021,
+        "tl_x": 0.024,
+        "tl_y": 0.3067
+    }
+}

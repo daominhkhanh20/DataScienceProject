@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mercedes-Benz",
+        "model": "A-klasse",
+        "generation": "I (W168) (1997-2001)",
+        "years": "1997-2001",
+        "prob": "57.93"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9305
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.5281
+    },
+    "bbox": {
+        "br_x": 0.9155,
+        "br_y": 0.8282,
+        "tl_x": 0,
+        "tl_y": 0.2733
+    }
+}

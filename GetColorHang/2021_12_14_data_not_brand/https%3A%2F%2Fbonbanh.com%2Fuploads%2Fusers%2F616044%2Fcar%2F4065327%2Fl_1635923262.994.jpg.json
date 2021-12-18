@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Peugeot",
+        "model": "205",
+        "generation": "1983 - 1998",
+        "years": "1983-1998",
+        "prob": "82.54"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.9171
+    },
+    "angle": {
+        "name": "Back Left",
+        "probability": 0.6315
+    },
+    "bbox": {
+        "br_x": 0.8729,
+        "br_y": 0.8153,
+        "tl_x": 0.1321,
+        "tl_y": 0.1021
+    }
+}

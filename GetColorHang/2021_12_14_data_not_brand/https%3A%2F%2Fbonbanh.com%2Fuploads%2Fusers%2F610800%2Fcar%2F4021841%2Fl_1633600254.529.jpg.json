@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Fiesta",
+        "generation": "VII (2017-)",
+        "years": "2017-",
+        "prob": "82.30"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.7913
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 1,
+        "br_y": 0.9971,
+        "tl_x": 0,
+        "tl_y": 0.2619
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Hyundai",
+        "model": "Solaris",
+        "generation": "II (2017-)",
+        "years": "2017-",
+        "prob": "84.05"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.9701
+    },
+    "angle": {
+        "name": "Front",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.8492,
+        "br_y": 0.843,
+        "tl_x": 0.1649,
+        "tl_y": 0.2375
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "KIA",
+        "model": "Soul",
+        "generation": "II facelift (2016-2019)",
+        "years": "2016-2019",
+        "prob": "99.99"
+    },
+    "color": {
+        "name": "Black",
+        "probability": 0.7473
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 1
+    },
+    "bbox": {
+        "br_x": 0.7494,
+        "br_y": 0.6946,
+        "tl_x": 0.3557,
+        "tl_y": 0.2846
+    }
+}

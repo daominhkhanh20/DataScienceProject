@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Mercedes-Benz",
+        "model": "C-klasse",
+        "generation": "II (W203) (2000-2004)",
+        "years": "2000-2004",
+        "prob": "58.52"
+    },
+    "color": {
+        "name": "Green",
+        "probability": 0.624
+    },
+    "angle": {
+        "name": "Front Left",
+        "probability": 0.8686
+    },
+    "bbox": {
+        "br_x": 0.9104,
+        "br_y": 0.9681,
+        "tl_x": 0.1443,
+        "tl_y": 0.0952
+    }
+}

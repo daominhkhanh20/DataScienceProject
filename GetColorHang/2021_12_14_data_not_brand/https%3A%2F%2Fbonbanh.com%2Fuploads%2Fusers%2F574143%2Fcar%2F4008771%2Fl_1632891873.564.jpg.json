@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "Chevrolet",
+        "model": "Silverado",
+        "generation": "I (GMT800) facelift (2003-2007)",
+        "years": "2003-2007",
+        "prob": "45.29"
+    },
+    "color": {
+        "name": "White",
+        "probability": 0.5792
+    },
+    "angle": {
+        "name": "Back Right",
+        "probability": 0.8892
+    },
+    "bbox": {
+        "br_x": 0.7613,
+        "br_y": 0.9881,
+        "tl_x": 0,
+        "tl_y": 0.0118
+    }
+}

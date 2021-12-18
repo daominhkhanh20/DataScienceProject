@@ -1,0 +1,23 @@
+{
+    "car": {
+        "make": "JAC",
+        "model": "Other",
+        "generation": "Other (-)",
+        "years": "-",
+        "prob": "39.28"
+    },
+    "color": {
+        "name": "Green/Black",
+        "probability": 0.8780999999999999
+    },
+    "angle": {
+        "name": "Right",
+        "probability": 0.9955
+    },
+    "bbox": {
+        "br_x": 0.7814,
+        "br_y": 0.8036,
+        "tl_x": 0.1735,
+        "tl_y": 0.1198
+    }
+}
