@@ -1,2 +1,4 @@
 pandas
 xgboost
+fastapi
+pydantic 
