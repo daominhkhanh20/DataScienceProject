@@ -2,3 +2,4 @@ pandas
 xgboost
 fastapi
 pydantic 
+uvicorn
