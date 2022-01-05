@@ -7,7 +7,7 @@ def process_dataframe(dataframe):
   status = dataframe["status"].apply(lambda x: 1 if x=="Đã sử dụng" else 0)
   color = pd.get_dummies(dataframe.car_color, prefix="color")
   gear = pd.get_dummies(dataframe.gear, prefix="gear")
-  style = pd.get_dummies(dataframe.style, prefix="style")
+  style = pd.get_dummies(dataframe["style"], prefix="style")
   region = pd.get_dummies(dataframe.region_name, prefix="region")
   name = pd.get_dummies(dataframe.car_name, prefix="name")
   fuel = pd.get_dummies(dataframe.fuel, prefix='fuel')
