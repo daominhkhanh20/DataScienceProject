@@ -11,7 +11,11 @@ cd CrawlData
 scrapy crawl bonbanh -o bonbanh.json
 scrapy crawl chotot -o chotot.json
 ```
-## II. Model 
+
+## II. Preprocess
+Detail about preprocessing in Preprocess/Preprocess_data.ipynb
+
+### III. Model 
 
 #### 1. Ridge Regression 
 ```buildoutcfg
@@ -23,8 +27,16 @@ python3 ML.py --model_name 'ridge'
 cd Model
 python3 ML.py --model_name 'knn'
 ```
-#### 1. Decision Tree Regression 
+#### 3. Decision Tree Regression 
 ```buildoutcfg
 cd Mode
 python3 ML.py --model_name 'decision_tree'
 ```
+
+#### 4. XGBoost
+``` bash
+cd Model_for_web
+pip install -r requirements.txt
+uvicorn api:app --port 8000 --host 0.0.0.0
+```
+Access 0.0.0.0/docs to get doc and request format.
