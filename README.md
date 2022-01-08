@@ -13,17 +13,17 @@ scrapy crawl chotot -o chotot.json
 python3 crawl_api.py
 ```
 ## II. Intergration data
-Step 1: Run all 'get_dict.ipynb' file
-Detail about preprocessing in 'util\get_dict.ipynb'
-Step 2: Run all Integrate 'data.ipynb' file
-Detail about preprocessing in 'Processing Data\Integrate data.ipynb'
+### Step 1: Decoding feature in website chotot
+Detail about preprocessing in 'util\get_dict.ipynb' <br>
+### Step 2: Integrate data <br>
+Detail about preprocessing in 'Processing Data\Integrate data.ipynb' <br>
 
 ## III. Preprocess
-Step 1: Detail about preprocessing in Preprocess/Preprocess_data.ipynb
-Step 2: Run all 'Transform Description.ipynb' to process description
-Detail about 'Processing Description\Transform Description.ipynb'
-Step 2: Run all 'PCA Description.ipynb' to PCA description
-Detail about 'Processing Description\PCA Description.ipynb'
+### Step 1: Detail about preprocessing in Preprocess/Preprocess_data.ipynb <br>
+### Step 2: Processing description <br>
+Detail about preprocessing in 'Processing Description\Transform Description.ipynb' <br>
+### Step 3: PCA with vector embedding after Bert model <br>
+Detail about preprocessing in 'Processing Description\PCA Description.ipynb' <br>
 
 
 ### IV. Model 
