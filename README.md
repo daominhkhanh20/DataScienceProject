@@ -15,13 +15,16 @@ scrapy crawl chotot
 
 #### 1. Ridge Regression 
 ```buildoutcfg
+cd Model
 python3 ML.py --model_name 'ridge'
 ```
 #### 2. KNN Regression 
 ```buildoutcfg
+cd Model
 python3 ML.py --model_name 'knn'
 ```
 #### 1. Decision Tree Regression 
 ```buildoutcfg
+cd Mode
 python3 ML.py --model_name 'decision_tree'
 ```
