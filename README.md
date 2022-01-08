@@ -12,11 +12,21 @@ scrapy crawl bonbanh -o bonbanh.json
 scrapy crawl chotot -o chotot.json
 python3 crawl_api.py
 ```
-## II. Inter
-## II. Preprocess
-Detail about preprocessing in Preprocess/Preprocess_data.ipynb
+## II. Intergration data
+Step 1: Run all 'get_dict.ipynb' file
+Detail about preprocessing in 'util\get_dict.ipynb'
+Step 2: Run all Integrate 'data.ipynb' file
+Detail about preprocessing in 'Processing Data\Integrate data.ipynb'
 
-### III. Model 
+## III. Preprocess
+Step 1: Detail about preprocessing in Preprocess/Preprocess_data.ipynb
+Step 2: Run all 'Transform Description.ipynb' to process description
+Detail about 'Processing Description\Transform Description.ipynb'
+Step 2: Run all 'PCA Description.ipynb' to PCA description
+Detail about 'Processing Description\PCA Description.ipynb'
+
+
+### IV. Model 
 
 #### 1. Ridge Regression 
 ```buildoutcfg
@@ -30,7 +40,7 @@ python3 ML.py --model_name 'knn'
 ```
 #### 3. Decision Tree Regression 
 ```buildoutcfg
-cd Mode
+cd Model
 python3 ML.py --model_name 'decision_tree'
 ```
 
@@ -41,3 +51,6 @@ pip install -r requirements.txt
 uvicorn api:app --port 8000 --host 0.0.0.0
 ```
 Access 0.0.0.0/docs to get doc and request format.
+
+####  5. Random Forest
+Detail about modeling in Model\RandomForest.ipynb
