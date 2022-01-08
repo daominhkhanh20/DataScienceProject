@@ -8,8 +8,8 @@ Start crawl data from 2 website: <br>
 Bash script:
 ```buildoutcfg
 cd CrawlData
-scrapy crawl bonbanh
-scrapy crawl chotot
+scrapy crawl bonbanh -o bonbanh.json
+scrapy crawl chotot -o chotot.json
 ```
 ## II. Model 
 
