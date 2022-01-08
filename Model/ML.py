@@ -13,8 +13,9 @@ from sklearn.pipeline import Pipeline
 import argparse
 import pickle
 import warnings
-warnings.filterwarnings("ignore")
+import os 
 
+warnings.filterwarnings("ignore")
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model_name', type=str, default='ridge')
@@ -32,14 +33,25 @@ def make_df_description(df: DataFrame, path_tensor_description: str):
     df_feature = pd.DataFrame(feature, columns=feature_columns)
     return pd.concat((df, df_feature), axis=1)
 
+def download_file():
+    print("Starting download file")
+    os.system('gdown --id 12YreCzV5SDZDEhrgZyPgu5bJKyhcmLKt') 
+    os.system('gdown --id 1-6-UaOtvW5a3Pc62nNQOYhPo9dqJ0bmk')
+    os.system('mkdir Description')
+    os.system('mv *.pth Description')
 
 data_train = pd.read_csv('../Preprocess/train_data.csv')
 data_test = pd.read_csv('../Preprocess/test_data.csv')
 
-data_train_des = make_df_description(data_train, '../Description/train_des.pth')
-data_test_des = make_df_description(data_test, '../Description/test_des.pth')
+
 
 if __name__ == '__main__':
+    if os.path.exists('Description') == False:
+        download_file()
+
+    data_train_des = make_df_description(data_train, 'Description/train_des.pth')
+    data_test_des = make_df_description(data_test, 'Description/test_des.pth')
+
     if arg.is_train_time:
         if arg.model_name == 'ridge':
             ml_algorithm = Pipeline(
@@ -47,14 +59,14 @@ if __name__ == '__main__':
                     ("scaler", MinMaxScaler()),
                     ('model', Ridge(alpha=0.2))
                 ])
-            parameters = [ {'model__alpha': [0,0.2,0.4,0.8] } ]
+            parameters = [{'model__alpha': [0, 0.2, 0.4, 0.8]}]
 
         elif arg.model_name == 'knn':
             ml_algorithm = Pipeline(steps=[
                 ("scaler", MinMaxScaler()),
                 ('model', KNeighborsRegressor(n_neighbors=5))
             ])
-            parameters = [{'model__n_neighbors': [5, 10, 20, 30, 40]} ]
+            parameters = [{'model__n_neighbors': [5, 10, 20, 30, 40]}]
 
         elif arg.model_name == 'decision_tree':
             ml_algorithm = Pipeline(steps=[
