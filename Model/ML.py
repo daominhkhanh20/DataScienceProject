@@ -37,6 +37,10 @@ def download_file():
     print("Starting download file")
     os.system('gdown --id 12YreCzV5SDZDEhrgZyPgu5bJKyhcmLKt') 
     os.system('gdown --id 1-6-UaOtvW5a3Pc62nNQOYhPo9dqJ0bmk')
+
+    os.system('gdown --id 1AoWj11rjK8AXKGBVIfI40GZMG1HeO2Jz')
+    os.system('gdown --id 1-78-2Lv1UFS3m31aAjhVddTUTsSD3kND')
+
     os.system('mkdir Description')
     os.system('mv *.pth Description')
 
