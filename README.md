@@ -10,8 +10,9 @@ Bash script:
 cd CrawlData
 scrapy crawl bonbanh -o bonbanh.json
 scrapy crawl chotot -o chotot.json
+python3 crawl_api.py
 ```
-
+## II. Inter
 ## II. Preprocess
 Detail about preprocessing in Preprocess/Preprocess_data.ipynb
 

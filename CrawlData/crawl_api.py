@@ -15,4 +15,4 @@ for i in tqdm(range(0, 35000, 20)):
 
 
 df =pd.DataFrame(df)
-df.to_csv('data1.csv', index=False)
+df.to_csv('chotot_api.csv', index=False)
